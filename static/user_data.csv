@@ -1,0 +1,2001 @@
+Age,Gender,Weight (kg),Height (cm),BMI,Activity Level,Dietary Goal,Daily Caloric Intake Goal (kcal),Diet Type,Allergies/Intolerances,Existing Health Conditions
+30,male,60,170,20.76,active,weight loss,2653,regular,none,high cholesterol
+36,male,72,181,21.98,active,weight loss,2962,vegetarian,none,none
+34,male,90,165,33.06,moderate,weight loss,2934,regular,shellfish,none
+29,female,49,172,16.56,active,weight loss,2256,regular,none,none
+39,female,63,162,24.01,sedentary,muscle gain,1636,regular,none,none
+25,male,82,159,32.44,active,weight loss,3119,regular,none,hypertension
+30,male,80,172,27.04,moderate,muscle gain,2814,regular,none,none
+35,female,62,155,25.81,sedentary,weight loss,1619,vegetarian,nuts,none
+34,female,54,163,20.32,sedentary,weight loss,1566,vegetarian,none,none
+26,male,77,178,24.3,sedentary,weight loss,2192,vegan,none,none
+44,male,74,185,21.62,active,maintenance,2963,vegan,none,none
+37,male,78,178,24.62,active,maintenance,3066,regular,none,none
+40,female,70,158,28.04,moderate,maintenance,2187,regular,none,high cholesterol
+37,female,69,163,25.97,moderate,muscle gain,2217,regular,none,none
+31,female,75,146,35.18,moderate,weight loss,2262,regular,none,none
+32,female,57,170,19.72,moderate,maintenance,2112,vegan,none,none
+38,female,65,167,23.31,moderate,muscle gain,2172,vegetarian,none,diabetes
+36,female,66,172,22.31,sedentary,weight loss,1722,regular,none,none
+30,female,66,172,22.31,sedentary,weight loss,1753,keto,none,high cholesterol
+31,female,66,174,21.8,active,muscle gain,2523,regular,none,none
+48,male,83,160,32.42,sedentary,weight loss,2035,regular,lactose,none
+24,female,89,166,32.3,moderate,weight loss,2605,vegetarian,none,none
+41,male,86,180,26.54,sedentary,weight loss,2246,regular,none,none
+34,female,71,178,22.41,moderate,weight loss,2338,vegetarian,none,none
+31,male,74,182,22.34,sedentary,muscle gain,2133,regular,none,none
+39,female,54,163,20.32,sedentary,maintenance,1540,regular,none,hypertension
+28,male,66,165,24.24,moderate,weight loss,2488,vegetarian,none,hypertension
+55,male,82,169,28.71,active,maintenance,2908,regular,none,none
+39,male,70,174,23.12,sedentary,weight loss,1968,regular,none,high cholesterol
+46,male,73,172,24.68,moderate,weight loss,2527,regular,none,none
+25,female,53,151,23.24,moderate,muscle gain,2011,vegan,none,none
+37,male,80,188,22.63,sedentary,muscle gain,2223,regular,none,none
+32,male,66,174,21.8,moderate,weight loss,2520,keto,gluten,none
+18,male,58,180,17.9,sedentary,maintenance,1952,regular,none,none
+31,male,80,177,25.54,moderate,weight loss,2842,regular,none,none
+33,female,70,168,24.8,sedentary,muscle gain,1767,vegan,none,none
+26,male,87,169,30.46,moderate,weight loss,2972,vegan,none,none
+42,female,58,159,22.94,active,weight loss,2233,vegetarian,none,none
+35,female,60,169,21.01,sedentary,maintenance,1649,regular,none,hypertension
+40,female,59,174,19.49,active,weight loss,2344,regular,none,none
+39,male,78,173,26.06,moderate,weight loss,2700,regular,none,none
+41,female,60,173,20.05,sedentary,muscle gain,1633,regular,none,diabetes
+29,male,88,168,31.18,moderate,maintenance,2959,regular,none,none
+36,male,79,175,25.8,sedentary,weight loss,2139,regular,none,high cholesterol
+33,female,68,169,23.81,active,weight loss,2513,regular,none,high cholesterol
+25,male,86,183,25.68,sedentary,maintenance,2372,keto,gluten,hypertension
+49,male,92,166,33.39,moderate,weight loss,2851,vegetarian,none,none
+27,male,71,171,24.28,sedentary,weight loss,2048,vegan,none,none
+38,female,65,164,24.17,sedentary,muscle gain,1671,vegan,none,none
+33,female,78,169,27.31,moderate,muscle gain,2402,regular,shellfish,none
+36,female,67,184,19.79,sedentary,weight loss,1778,regular,none,none
+41,female,71,171,24.28,moderate,weight loss,2257,regular,gluten,none
+24,female,65,151,28.51,sedentary,muscle gain,1695,regular,none,diabetes
+29,female,55,169,19.26,active,weight loss,2336,vegan,none,none
+27,male,82,183,24.49,moderate,muscle gain,2963,vegan,none,high cholesterol
+22,male,73,178,23.04,sedentary,weight loss,2155,regular,none,none
+35,male,68,175,22.2,sedentary,maintenance,1969,paleo,none,diabetes
+36,female,53,170,18.34,sedentary,weight loss,1570,vegan,none,none
+42,male,55,178,17.36,moderate,weight loss,2234,regular,none,none
+18,female,77,160,30.08,sedentary,maintenance,1893,vegan,none,none
+31,female,70,168,24.8,sedentary,weight loss,1777,regular,none,none
+32,female,58,155,24.14,sedentary,maintenance,1591,regular,shellfish,none
+31,female,71,177,22.66,moderate,maintenance,2353,regular,none,high cholesterol
+30,male,72,174,23.78,moderate,weight loss,2662,vegetarian,nuts,none
+26,female,61,160,23.83,moderate,weight loss,2162,regular,none,high cholesterol
+20,female,60,159,23.73,moderate,weight loss,2183,regular,none,diabetes
+37,female,87,166,31.57,active,weight loss,2771,regular,none,none
+37,male,76,174,25.1,sedentary,weight loss,2078,regular,none,none
+53,male,93,175,30.37,moderate,weight loss,2904,regular,gluten,none
+21,male,73,178,23.04,sedentary,maintenance,2162,regular,nuts,none
+36,male,84,175,27.43,moderate,weight loss,2866,regular,none,none
+49,female,65,158,26.04,moderate,maintenance,2055,keto,nuts,high cholesterol
+29,female,63,164,23.42,moderate,weight loss,2190,keto,gluten,none
+18,female,55,168,19.49,sedentary,weight loss,1678,regular,none,diabetes
+43,male,83,184,24.52,sedentary,maintenance,2207,paleo,none,none
+28,female,63,156,25.89,moderate,maintenance,2158,regular,none,high cholesterol
+34,female,68,161,26.23,moderate,muscle gain,2213,regular,gluten,diabetes
+24,female,68,164,25.28,active,weight loss,2554,regular,shellfish,none
+36,male,69,153,29.48,sedentary,maintenance,1851,vegetarian,none,diabetes
+26,female,71,177,22.66,active,weight loss,2656,regular,none,high cholesterol
+30,female,62,173,20.72,sedentary,maintenance,1712,keto,gluten,hypertension
+32,female,71,172,24.0,active,muscle gain,2585,regular,none,none
+38,male,75,156,30.82,moderate,weight loss,2520,regular,none,none
+33,female,61,184,18.02,sedentary,weight loss,1727,regular,none,diabetes
+26,male,75,174,24.77,sedentary,weight loss,2137,regular,none,none
+34,male,86,182,25.96,moderate,muscle gain,2977,paleo,none,none
+38,female,68,153,29.05,active,weight loss,2391,regular,none,high cholesterol
+27,male,78,165,28.65,moderate,weight loss,2746,regular,none,high cholesterol
+45,female,60,173,20.05,moderate,maintenance,2082,regular,none,none
+35,female,62,161,23.92,moderate,muscle gain,2121,regular,nuts,diabetes
+30,female,74,161,28.55,active,maintenance,2589,regular,none,none
+30,female,61,149,27.48,active,maintenance,2317,regular,none,none
+36,male,89,149,40.09,sedentary,maintenance,2150,regular,none,none
+47,male,95,187,27.17,moderate,weight loss,3087,regular,none,none
+45,female,58,177,18.51,sedentary,muscle gain,1605,regular,none,high cholesterol
+43,female,64,169,22.41,sedentary,muscle gain,1652,regular,none,none
+38,male,79,163,29.73,moderate,weight loss,2656,regular,none,none
+40,male,85,184,25.11,sedentary,muscle gain,2260,regular,none,none
+19,female,65,141,32.69,moderate,maintenance,2175,regular,none,hypertension
+22,male,85,182,25.66,active,weight loss,3408,vegetarian,none,none
+39,male,67,188,18.96,active,maintenance,2875,regular,none,diabetes
+41,male,66,187,18.87,moderate,maintenance,2538,regular,none,none
+36,female,72,150,32.0,active,maintenance,2453,regular,none,none
+28,female,60,151,26.31,sedentary,maintenance,1619,regular,none,none
+47,male,85,176,27.44,sedentary,weight loss,2166,regular,none,high cholesterol
+43,male,84,169,29.41,moderate,maintenance,2760,low-carb,lactose,diabetes
+33,female,58,165,21.3,sedentary,weight loss,1623,regular,none,none
+19,female,74,159,29.27,active,maintenance,2660,regular,none,none
+50,female,64,159,25.32,sedentary,muscle gain,1579,vegan,none,none
+38,female,67,162,25.53,moderate,maintenance,2177,vegan,none,none
+24,female,66,159,26.11,sedentary,weight loss,1736,regular,none,none
+25,female,60,174,19.82,moderate,weight loss,2221,regular,none,none
+20,male,58,161,22.38,sedentary,weight loss,1829,vegetarian,none,none
+38,male,82,167,29.4,moderate,weight loss,2748,regular,none,none
+54,female,71,169,24.86,moderate,maintenance,2161,regular,none,hypertension
+26,female,55,163,20.7,active,muscle gain,2326,regular,none,none
+32,female,58,165,21.3,sedentary,weight loss,1628,regular,none,high cholesterol
+31,female,61,180,18.83,moderate,muscle gain,2224,regular,none,none
+30,male,82,167,29.4,sedentary,weight loss,2182,regular,none,hypertension
+34,female,59,177,18.83,active,maintenance,2405,regular,none,none
+25,male,78,183,23.29,active,weight loss,3225,vegetarian,none,none
+36,female,53,171,18.13,sedentary,weight loss,1574,keto,shellfish,diabetes
+45,female,72,163,27.1,active,muscle gain,2456,regular,gluten,none
+35,male,74,157,30.02,moderate,weight loss,2533,low-carb,none,high cholesterol
+44,male,80,167,28.69,active,weight loss,2953,regular,none,none
+49,female,73,167,26.18,moderate,maintenance,2213,vegetarian,none,none
+34,male,84,173,28.07,moderate,maintenance,2869,regular,none,diabetes
+36,male,79,172,26.7,moderate,maintenance,2740,vegetarian,none,none
+33,female,60,167,21.51,active,maintenance,2375,regular,none,diabetes
+30,female,61,160,23.83,moderate,weight loss,2135,regular,none,none
+35,female,58,144,27.97,moderate,weight loss,1982,regular,none,diabetes
+34,female,53,167,19.0,active,muscle gain,2256,regular,none,none
+46,female,56,168,19.84,sedentary,weight loss,1544,regular,none,none
+32,female,75,157,30.43,moderate,maintenance,2308,regular,none,none
+45,female,63,163,23.71,sedentary,maintenance,1608,vegetarian,none,none
+32,male,78,185,22.79,active,maintenance,3173,regular,none,none
+20,female,62,162,23.62,moderate,weight loss,2226,regular,none,high cholesterol
+41,male,95,159,37.58,active,muscle gain,3263,regular,none,none
+51,female,81,181,24.72,sedentary,weight loss,1844,keto,none,hypertension
+31,male,81,177,25.85,sedentary,weight loss,2216,regular,gluten,none
+46,female,82,159,32.44,sedentary,muscle gain,1799,regular,none,diabetes
+65,male,72,165,26.45,moderate,muscle gain,2287,vegetarian,none,high cholesterol
+39,female,61,177,19.47,moderate,weight loss,2156,regular,none,none
+34,female,54,147,24.99,moderate,weight loss,1945,vegetarian,lactose,none
+35,female,66,156,27.12,sedentary,muscle gain,1668,regular,lactose,none
+49,female,67,179,20.91,moderate,muscle gain,2185,paleo,lactose,none
+41,male,67,190,18.56,moderate,weight loss,2581,regular,none,high cholesterol
+27,male,79,174,26.09,moderate,maintenance,2834,regular,none,none
+26,female,63,159,24.92,sedentary,weight loss,1692,vegetarian,gluten,hypertension
+22,female,77,163,28.98,moderate,muscle gain,2432,regular,none,none
+30,female,56,141,28.17,moderate,weight loss,1972,regular,none,none
+27,male,80,179,24.97,sedentary,weight loss,2239,regular,nuts,diabetes
+43,male,79,167,28.33,active,weight loss,2939,regular,none,none
+18,female,65,169,22.76,active,muscle gain,2578,vegan,none,diabetes
+43,male,86,180,26.54,moderate,maintenance,2883,regular,none,hypertension
+42,male,67,180,20.68,moderate,muscle gain,2498,regular,none,none
+46,female,73,159,28.88,moderate,muscle gain,2195,regular,none,none
+41,female,58,163,21.83,moderate,weight loss,2033,vegan,none,hypertension
+23,male,75,188,21.22,sedentary,maintenance,2238,regular,none,none
+47,male,85,162,32.39,sedentary,weight loss,2085,regular,none,hypertension
+26,female,56,168,19.84,active,muscle gain,2369,regular,none,diabetes
+46,female,65,155,27.06,sedentary,weight loss,1596,regular,nuts,hypertension
+50,male,81,165,29.75,active,muscle gain,2901,regular,none,none
+39,male,83,177,26.49,sedentary,weight loss,2194,vegetarian,none,hypertension
+49,female,71,172,24.0,sedentary,muscle gain,1710,regular,none,none
+24,male,89,190,24.65,moderate,weight loss,3187,vegetarian,none,none
+56,female,65,165,23.88,sedentary,weight loss,1581,regular,none,high cholesterol
+26,female,61,178,19.25,sedentary,weight loss,1741,vegan,none,none
+43,female,66,180,20.37,active,muscle gain,2466,regular,none,none
+18,female,76,152,32.89,sedentary,weight loss,1852,regular,none,diabetes
+51,female,60,176,19.37,sedentary,muscle gain,1592,vegan,none,hypertension
+39,female,73,172,24.68,sedentary,weight loss,1784,low-carb,none,none
+37,female,80,164,29.74,sedentary,weight loss,1842,regular,gluten,high cholesterol
+52,male,89,167,31.91,moderate,weight loss,2770,vegan,none,none
+40,male,83,187,23.74,moderate,muscle gain,2900,regular,none,diabetes
+21,male,83,166,30.12,active,maintenance,3239,regular,lactose,none
+50,female,69,184,20.38,active,maintenance,2483,regular,none,high cholesterol
+42,female,68,173,22.72,active,weight loss,2468,regular,none,none
+21,female,64,162,24.39,active,weight loss,2502,regular,none,none
+38,female,65,165,23.88,sedentary,weight loss,1674,vegetarian,none,none
+19,male,74,163,27.85,moderate,weight loss,2719,regular,none,hypertension
+29,male,81,182,24.45,sedentary,maintenance,2259,regular,none,high cholesterol
+39,male,70,188,19.81,active,weight loss,2945,regular,none,none
+27,male,66,171,22.57,moderate,maintenance,2542,vegan,none,none
+45,female,66,159,26.11,sedentary,muscle gain,1627,regular,none,diabetes
+29,female,67,169,23.46,moderate,weight loss,2271,regular,none,none
+37,male,76,175,24.82,moderate,maintenance,2691,regular,none,none
+18,male,94,172,31.77,moderate,maintenance,3210,regular,none,none
+32,female,60,166,21.77,moderate,maintenance,2136,regular,none,none
+30,female,68,152,29.43,sedentary,muscle gain,1701,regular,none,diabetes
+48,female,79,162,30.1,moderate,maintenance,2282,regular,none,none
+25,female,59,150,26.22,moderate,maintenance,2092,keto,none,none
+39,female,70,151,30.7,sedentary,maintenance,1673,regular,none,none
+21,male,77,177,24.58,moderate,weight loss,2868,regular,none,none
+35,female,64,165,23.51,sedentary,weight loss,1679,regular,none,none
+21,female,69,168,24.45,moderate,weight loss,2349,regular,none,high cholesterol
+31,female,70,159,27.69,moderate,weight loss,2253,vegan,none,none
+42,female,45,168,15.94,active,weight loss,2074,regular,none,none
+36,female,84,172,28.39,sedentary,weight loss,1922,vegan,none,none
+47,male,64,190,17.73,moderate,weight loss,2466,regular,none,none
+38,male,93,189,26.04,moderate,maintenance,3140,regular,shellfish,hypertension
+41,female,60,158,24.03,moderate,maintenance,2037,vegetarian,none,none
+18,female,53,164,19.71,moderate,muscle gain,2120,regular,none,none
+31,female,54,160,21.09,sedentary,muscle gain,1570,vegetarian,none,high cholesterol
+25,male,67,173,22.39,moderate,weight loss,2595,vegan,lactose,none
+39,female,54,163,20.32,moderate,weight loss,1989,paleo,none,none
+34,female,56,157,22.72,active,weight loss,2250,regular,none,none
+39,male,74,178,23.36,moderate,muscle gain,2654,regular,none,none
+41,female,71,186,20.52,sedentary,weight loss,1803,regular,lactose,diabetes
+53,male,86,183,25.68,active,weight loss,3136,regular,none,none
+41,female,70,163,26.35,active,muscle gain,2454,regular,none,none
+29,female,66,149,29.73,sedentary,muscle gain,1673,vegan,none,high cholesterol
+48,male,85,168,30.12,sedentary,weight loss,2113,vegetarian,none,none
+46,male,81,194,21.52,active,weight loss,3180,regular,none,none
+32,female,61,172,20.62,sedentary,muscle gain,1687,paleo,none,none
+27,male,71,180,21.91,moderate,maintenance,2713,regular,none,none
+23,female,72,165,26.45,moderate,weight loss,2364,regular,none,high cholesterol
+21,male,63,180,19.44,sedentary,maintenance,2012,vegan,none,none
+23,male,88,194,23.38,sedentary,weight loss,2481,vegan,none,none
+24,male,70,180,21.6,moderate,muscle gain,2718,vegetarian,none,none
+27,female,58,150,25.78,sedentary,weight loss,1598,regular,none,high cholesterol
+41,male,73,188,20.65,moderate,weight loss,2690,vegan,none,none
+52,male,74,167,26.53,moderate,weight loss,2458,regular,none,hypertension
+35,male,82,187,23.45,sedentary,muscle gain,2263,regular,none,none
+20,female,70,174,23.12,moderate,weight loss,2398,regular,gluten,hypertension
+47,male,81,169,28.36,sedentary,muscle gain,2061,regular,none,none
+26,female,62,172,20.96,moderate,maintenance,2234,regular,none,none
+41,male,93,179,29.03,active,maintenance,3382,regular,none,none
+37,male,95,181,29.0,sedentary,maintenance,2424,vegetarian,none,none
+43,female,71,149,31.98,moderate,maintenance,2138,vegan,none,none
+18,female,66,165,24.24,moderate,weight loss,2311,vegan,none,none
+28,male,82,175,26.78,sedentary,weight loss,2241,regular,gluten,none
+28,female,60,147,27.77,active,weight loss,2306,vegetarian,none,high cholesterol
+48,female,57,177,18.19,sedentary,weight loss,1578,regular,gluten,none
+34,female,59,169,20.66,moderate,weight loss,2123,regular,shellfish,none
+50,male,90,153,38.45,moderate,muscle gain,2704,regular,none,none
+20,female,66,164,24.54,active,weight loss,2552,regular,none,diabetes
+32,female,55,167,19.72,moderate,muscle gain,2069,regular,none,hypertension
+62,male,81,187,23.16,moderate,maintenance,2664,keto,none,none
+21,male,72,150,32.0,sedentary,weight loss,1984,regular,none,none
+39,male,82,179,25.59,sedentary,weight loss,2189,vegetarian,none,high cholesterol
+41,female,55,182,16.6,moderate,maintenance,2081,regular,none,none
+45,male,73,186,21.1,sedentary,maintenance,2044,regular,none,none
+36,male,83,173,27.73,moderate,maintenance,2831,regular,shellfish,none
+32,male,72,186,20.81,sedentary,maintenance,2117,vegan,none,none
+38,female,81,173,27.06,moderate,weight loss,2430,keto,none,none
+26,female,72,171,24.62,active,maintenance,2640,regular,none,none
+28,male,73,177,23.3,sedentary,weight loss,2108,regular,none,diabetes
+37,female,64,171,21.89,sedentary,weight loss,1691,keto,none,high cholesterol
+45,female,51,158,20.43,sedentary,weight loss,1457,regular,gluten,none
+43,male,75,169,26.26,active,maintenance,2864,vegetarian,none,none
+48,male,87,188,24.62,sedentary,weight loss,2260,regular,lactose,diabetes
+30,male,83,174,27.41,active,weight loss,3217,keto,none,diabetes
+28,male,82,157,33.27,moderate,weight loss,2761,regular,none,none
+39,male,56,169,19.61,moderate,muscle gain,2214,regular,none,diabetes
+32,female,65,162,24.77,sedentary,weight loss,1694,regular,none,none
+20,female,64,132,36.73,sedentary,weight loss,1634,regular,none,none
+30,female,53,154,22.35,moderate,maintenance,1992,regular,none,none
+46,male,83,158,33.25,moderate,maintenance,2631,regular,none,none
+46,male,60,169,21.01,sedentary,weight loss,1730,regular,none,none
+48,female,71,145,33.77,sedentary,maintenance,1615,regular,none,none
+36,female,61,155,25.39,active,weight loss,2305,regular,none,none
+41,male,71,166,25.77,sedentary,muscle gain,1924,regular,none,hypertension
+45,female,70,173,23.39,moderate,weight loss,2226,regular,none,none
+41,female,63,151,27.63,moderate,weight loss,2047,vegan,gluten,none
+25,female,67,163,25.22,moderate,maintenance,2269,regular,none,none
+43,female,75,164,27.89,active,weight loss,2524,keto,none,none
+25,female,60,170,20.76,sedentary,maintenance,1705,regular,none,none
+33,male,86,172,29.07,sedentary,weight loss,2254,regular,nuts,none
+39,male,77,181,23.5,moderate,muscle gain,2739,regular,none,none
+55,female,55,175,17.96,moderate,muscle gain,1953,regular,none,none
+50,male,69,172,23.32,sedentary,weight loss,1865,vegetarian,none,none
+45,male,69,164,25.65,active,weight loss,2664,regular,none,none
+27,female,49,188,13.86,moderate,maintenance,2118,regular,lactose,hypertension
+34,female,71,149,31.98,active,muscle gain,2447,vegetarian,none,none
+34,male,79,167,28.33,moderate,maintenance,2720,regular,none,none
+22,female,60,176,19.37,active,weight loss,2505,keto,none,none
+32,female,60,182,18.11,sedentary,weight loss,1713,regular,none,diabetes
+33,female,58,162,22.1,sedentary,weight loss,1611,regular,none,none
+42,female,50,170,17.3,moderate,maintenance,1945,regular,none,none
+55,male,70,173,23.39,moderate,weight loss,2393,vegetarian,none,diabetes
+39,female,72,179,22.47,sedentary,weight loss,1799,regular,none,hypertension
+31,female,61,181,18.62,sedentary,maintenance,1726,regular,none,high cholesterol
+32,male,85,185,24.84,sedentary,weight loss,2320,regular,none,none
+46,female,66,172,22.31,moderate,weight loss,2157,paleo,lactose,none
+36,female,66,155,27.47,sedentary,weight loss,1659,vegetarian,none,high cholesterol
+53,male,75,173,25.06,sedentary,muscle gain,1947,vegetarian,none,none
+36,female,64,166,23.23,sedentary,muscle gain,1677,regular,gluten,none
+41,male,97,158,38.86,sedentary,weight loss,2296,regular,none,high cholesterol
+27,female,65,158,26.04,sedentary,weight loss,1705,regular,none,none
+42,male,73,187,20.88,moderate,muscle gain,2674,regular,none,none
+51,female,67,151,29.38,sedentary,weight loss,1577,regular,none,none
+30,male,75,187,21.45,sedentary,maintenance,2184,keto,none,none
+51,male,66,157,26.78,moderate,muscle gain,2227,low-carb,none,none
+52,male,84,173,28.07,active,weight loss,3017,regular,none,none
+18,male,71,183,21.2,sedentary,muscle gain,2179,regular,none,none
+28,female,74,169,25.91,sedentary,muscle gain,1841,paleo,none,none
+29,female,67,163,25.22,moderate,weight loss,2242,regular,lactose,none
+36,male,93,154,39.21,active,weight loss,3224,vegetarian,none,hypertension
+42,female,61,176,19.69,sedentary,weight loss,1650,regular,none,diabetes
+33,female,53,164,19.71,sedentary,maintenance,1563,paleo,none,hypertension
+36,female,67,175,21.88,active,muscle gain,2507,regular,none,none
+38,male,76,171,25.99,sedentary,weight loss,2054,regular,none,none
+33,male,79,179,24.66,moderate,muscle gain,2819,regular,none,none
+32,female,73,181,22.28,active,weight loss,2665,regular,none,diabetes
+26,male,90,174,29.73,moderate,muscle gain,3071,regular,none,none
+38,female,53,174,17.51,moderate,weight loss,2034,regular,none,hypertension
+36,male,75,171,25.65,active,weight loss,2949,regular,none,none
+46,male,65,182,19.62,active,muscle gain,2711,regular,none,diabetes
+45,female,69,156,28.35,sedentary,weight loss,1649,vegan,none,none
+27,female,83,162,31.63,moderate,muscle gain,2480,regular,none,hypertension
+27,male,68,169,23.81,moderate,weight loss,2569,regular,none,none
+21,female,55,164,20.45,sedentary,muscle gain,1648,vegetarian,none,none
+29,female,66,155,27.47,moderate,muscle gain,2189,vegan,none,hypertension
+52,male,60,179,18.73,sedentary,weight loss,1747,regular,nuts,none
+30,female,60,164,22.31,sedentary,weight loss,1657,regular,lactose,none
+33,male,85,178,26.83,moderate,weight loss,2936,regular,none,none
+25,female,66,165,24.24,moderate,weight loss,2264,regular,none,hypertension
+28,male,72,174,23.78,moderate,maintenance,2680,regular,none,diabetes
+26,male,71,170,24.57,sedentary,muscle gain,2049,vegan,none,none
+32,female,54,162,20.58,moderate,muscle gain,2031,vegan,none,none
+37,female,71,160,27.73,moderate,weight loss,2231,regular,gluten,none
+22,female,66,167,23.67,active,maintenance,2553,regular,none,none
+31,male,67,177,21.39,sedentary,weight loss,1991,regular,none,none
+31,male,86,155,35.8,sedentary,weight loss,2170,low-carb,none,none
+45,female,63,160,24.61,moderate,maintenance,2063,regular,none,none
+32,male,84,175,27.43,active,weight loss,3229,low-carb,none,none
+53,male,88,178,27.77,moderate,weight loss,2822,low-carb,none,none
+37,female,62,173,20.72,active,maintenance,2409,regular,none,none
+42,female,61,162,23.24,sedentary,weight loss,1598,regular,none,none
+41,male,58,172,19.61,sedentary,maintenance,1750,regular,none,none
+22,female,69,171,23.6,active,weight loss,2622,vegetarian,none,high cholesterol
+36,male,70,182,21.13,moderate,weight loss,2628,regular,none,diabetes
+29,male,69,178,21.78,moderate,maintenance,2639,regular,none,none
+35,female,58,154,24.46,moderate,weight loss,2030,vegan,none,none
+62,female,61,144,29.42,active,maintenance,2052,paleo,none,none
+45,male,85,165,31.22,moderate,maintenance,2733,regular,none,none
+35,male,71,164,26.4,sedentary,muscle gain,1953,regular,none,hypertension
+35,female,56,160,21.87,active,weight loss,2259,vegan,none,diabetes
+49,female,58,172,19.61,moderate,maintenance,2022,regular,none,none
+43,male,61,162,23.24,sedentary,weight loss,1727,regular,shellfish,none
+18,male,97,174,32.04,sedentary,muscle gain,2545,regular,gluten,none
+43,female,67,166,24.31,active,maintenance,2407,vegan,none,none
+22,female,51,166,18.51,sedentary,weight loss,1606,regular,none,none
+28,male,63,186,18.21,moderate,weight loss,2582,low-carb,none,none
+38,female,70,162,26.67,active,weight loss,2471,regular,none,none
+30,female,67,156,27.53,sedentary,weight loss,1705,vegetarian,none,none
+57,female,58,166,21.05,sedentary,maintenance,1502,regular,none,none
+52,male,64,194,17.0,sedentary,maintenance,1898,regular,none,none
+34,male,67,168,23.74,moderate,weight loss,2479,regular,lactose,hypertension
+32,female,69,153,29.48,sedentary,muscle gain,1705,regular,none,diabetes
+33,female,48,160,18.75,moderate,muscle gain,1929,vegetarian,lactose,hypertension
+45,female,52,174,17.18,sedentary,weight loss,1527,vegetarian,none,none
+45,female,61,176,19.69,active,maintenance,2350,regular,none,none
+41,female,77,156,31.64,moderate,weight loss,2271,regular,none,none
+22,male,74,172,25.01,moderate,maintenance,2759,low-carb,none,high cholesterol
+18,male,89,178,28.09,active,weight loss,3506,vegetarian,none,none
+46,male,85,168,30.12,active,maintenance,3057,regular,none,none
+18,female,78,148,35.61,sedentary,weight loss,1859,regular,nuts,none
+22,male,70,180,21.6,moderate,weight loss,2736,regular,none,none
+45,male,75,174,24.77,moderate,weight loss,2593,paleo,none,hypertension
+44,female,52,161,20.06,moderate,muscle gain,1917,regular,none,none
+57,male,98,187,28.02,moderate,weight loss,3061,regular,gluten,none
+37,male,62,179,19.35,sedentary,maintenance,1882,regular,none,none
+34,female,72,176,23.24,sedentary,muscle gain,1814,regular,none,none
+39,female,63,157,25.56,sedentary,weight loss,1617,regular,none,none
+53,male,67,174,22.13,sedentary,weight loss,1824,vegetarian,none,none
+27,female,61,150,27.11,sedentary,maintenance,1631,regular,none,diabetes
+31,male,99,150,44.0,moderate,maintenance,3036,vegan,none,high cholesterol
+42,male,91,173,30.41,sedentary,weight loss,2279,vegetarian,none,none
+18,male,82,194,21.79,moderate,maintenance,3124,vegan,gluten,none
+48,female,71,169,24.86,moderate,weight loss,2201,regular,none,none
+50,female,66,174,21.8,sedentary,muscle gain,1657,regular,none,none
+24,male,81,186,23.41,moderate,muscle gain,2991,vegetarian,none,none
+41,female,61,178,19.25,sedentary,weight loss,1663,regular,none,none
+35,male,75,186,21.68,sedentary,weight loss,2144,regular,none,hypertension
+33,female,57,175,18.61,active,maintenance,2370,regular,none,none
+47,female,67,147,31.01,active,weight loss,2275,regular,none,none
+22,male,63,171,21.55,sedentary,maintenance,1954,regular,none,high cholesterol
+29,male,66,161,25.46,active,maintenance,2726,regular,none,none
+29,female,66,177,21.07,moderate,weight loss,2295,vegetarian,none,none
+19,female,56,177,17.87,moderate,weight loss,2219,regular,none,none
+23,male,69,166,25.04,active,weight loss,2896,regular,none,diabetes
+25,male,79,147,36.56,active,weight loss,2950,regular,none,none
+18,male,84,173,28.07,sedentary,maintenance,2330,regular,gluten,diabetes
+29,female,50,154,21.08,moderate,weight loss,1955,vegan,none,none
+31,male,92,183,27.47,active,maintenance,3490,regular,none,none
+37,male,73,170,25.26,moderate,maintenance,2592,regular,none,diabetes
+38,male,76,166,27.58,sedentary,weight loss,2025,regular,gluten,none
+41,male,61,150,27.11,moderate,weight loss,2159,regular,none,none
+35,male,72,194,19.13,sedentary,maintenance,2142,regular,lactose,none
+30,female,64,169,22.41,active,weight loss,2472,regular,none,none
+40,female,68,145,32.34,moderate,weight loss,2096,keto,none,none
+43,male,69,183,20.6,moderate,maintenance,2553,regular,none,none
+37,female,57,167,20.44,moderate,weight loss,2064,regular,none,none
+27,female,77,180,23.77,active,weight loss,2761,regular,none,diabetes
+39,male,74,181,22.59,active,weight loss,2979,vegetarian,none,diabetes
+45,female,63,169,22.06,moderate,maintenance,2106,regular,gluten,none
+19,male,86,152,37.22,moderate,muscle gain,2886,regular,none,none
+18,male,94,164,34.95,sedentary,maintenance,2439,keto,none,hypertension
+31,female,54,192,14.65,moderate,muscle gain,2182,regular,none,none
+33,female,53,176,17.11,moderate,maintenance,2077,regular,none,none
+43,male,82,172,27.72,sedentary,muscle gain,2122,regular,none,high cholesterol
+47,female,59,157,23.94,moderate,weight loss,1978,regular,none,none
+32,male,80,169,28.01,sedentary,muscle gain,2147,regular,none,none
+31,male,68,186,19.66,sedentary,muscle gain,2059,regular,none,none
+60,male,80,166,29.03,sedentary,maintenance,1939,regular,none,none
+34,male,84,170,29.07,sedentary,weight loss,2204,regular,none,none
+30,male,88,193,23.62,moderate,muscle gain,3136,vegetarian,none,diabetes
+24,female,59,156,24.24,sedentary,weight loss,1647,vegetarian,none,none
+20,male,72,188,20.37,sedentary,weight loss,2210,regular,none,none
+52,female,70,160,27.34,sedentary,muscle gain,1638,regular,none,none
+45,male,64,168,22.68,sedentary,weight loss,1796,regular,none,none
+31,female,73,160,28.52,sedentary,maintenance,1781,paleo,lactose,none
+44,female,62,169,21.71,moderate,weight loss,2099,regular,gluten,none
+18,male,83,173,27.73,sedentary,weight loss,2314,regular,lactose,none
+34,male,86,187,24.59,sedentary,maintenance,2334,vegan,none,none
+40,male,64,180,19.75,active,weight loss,2730,regular,none,none
+39,female,73,170,25.26,sedentary,muscle gain,1776,keto,none,none
+18,male,88,164,32.72,active,weight loss,3367,regular,none,none
+42,female,74,159,29.27,moderate,weight loss,2236,regular,none,none
+23,male,54,168,19.13,moderate,weight loss,2306,regular,none,none
+32,male,84,168,29.76,sedentary,weight loss,2206,regular,gluten,none
+47,male,60,181,18.31,active,maintenance,2577,regular,none,diabetes
+32,female,52,143,25.43,sedentary,muscle gain,1479,keto,none,none
+37,male,75,164,27.89,sedentary,weight loss,2004,regular,none,diabetes
+37,female,54,177,17.24,active,weight loss,2303,paleo,none,high cholesterol
+31,female,73,166,26.49,moderate,weight loss,2329,regular,none,none
+37,female,65,171,22.23,moderate,weight loss,2198,keto,none,none
+43,female,59,171,20.18,sedentary,maintenance,1604,vegetarian,none,hypertension
+21,female,66,175,21.55,active,weight loss,2603,regular,none,none
+39,female,54,179,16.85,moderate,maintenance,2066,regular,none,none
+34,male,66,169,23.11,moderate,weight loss,2465,vegan,none,none
+38,female,78,172,26.37,active,maintenance,2652,keto,none,none
+44,male,63,183,18.81,moderate,maintenance,2419,regular,none,none
+39,male,74,192,20.07,active,maintenance,3070,vegan,none,diabetes
+41,female,69,160,26.95,active,muscle gain,2422,regular,none,hypertension
+35,female,59,173,19.71,active,muscle gain,2376,paleo,none,none
+42,female,87,158,34.85,active,weight loss,2690,regular,nuts,none
+40,female,57,176,18.4,moderate,weight loss,2087,regular,nuts,hypertension
+30,female,62,166,22.5,sedentary,weight loss,1686,regular,none,none
+51,female,50,156,20.55,sedentary,weight loss,1407,regular,none,none
+33,female,64,159,25.32,moderate,maintenance,2153,regular,none,none
+29,male,79,174,26.09,active,muscle gain,3135,regular,none,high cholesterol
+31,female,57,150,25.33,sedentary,weight loss,1566,regular,none,none
+18,female,70,180,21.6,active,weight loss,2716,regular,none,high cholesterol
+39,male,67,156,27.53,moderate,muscle gain,2345,regular,none,none
+41,male,72,175,23.51,moderate,muscle gain,2573,regular,none,none
+18,female,75,162,28.58,sedentary,weight loss,1878,regular,none,none
+42,female,68,163,25.59,sedentary,weight loss,1679,vegan,none,diabetes
+52,male,93,168,32.95,moderate,maintenance,2860,vegetarian,none,none
+36,female,58,159,22.94,moderate,muscle gain,2047,regular,none,none
+52,female,76,150,33.78,sedentary,maintenance,1668,regular,none,none
+24,male,78,178,24.62,sedentary,weight loss,2222,keto,none,none
+36,male,74,191,20.28,moderate,maintenance,2778,regular,none,high cholesterol
+30,female,72,177,22.98,sedentary,weight loss,1838,paleo,none,none
+22,female,61,159,24.13,sedentary,weight loss,1691,vegan,lactose,none
+35,male,63,157,25.56,sedentary,maintenance,1785,regular,none,none
+34,female,62,169,21.71,sedentary,maintenance,1677,vegetarian,none,none
+40,male,90,177,28.73,sedentary,maintenance,2300,regular,none,high cholesterol
+37,female,54,169,18.91,moderate,muscle gain,2031,regular,none,none
+46,female,76,155,31.63,moderate,muscle gain,2219,regular,none,diabetes
+20,male,62,164,23.05,moderate,weight loss,2468,regular,none,diabetes
+26,male,88,175,28.73,sedentary,weight loss,2351,regular,none,none
+40,female,68,152,29.43,sedentary,weight loss,1649,keto,none,none
+27,male,91,149,40.99,moderate,maintenance,2897,vegetarian,none,none
+26,male,95,173,31.74,moderate,weight loss,3168,regular,none,diabetes
+18,female,62,153,26.49,moderate,maintenance,2196,regular,none,none
+23,male,72,170,24.91,sedentary,maintenance,2086,regular,none,none
+24,female,57,161,21.99,moderate,maintenance,2123,keto,none,none
+18,female,61,170,21.11,moderate,muscle gain,2264,regular,none,none
+23,male,86,178,27.14,moderate,maintenance,3044,vegan,gluten,diabetes
+28,female,70,165,25.71,sedentary,maintenance,1782,regular,none,high cholesterol
+22,male,62,174,20.48,moderate,maintenance,2525,vegetarian,shellfish,diabetes
+18,male,75,169,26.26,moderate,weight loss,2793,vegetarian,none,none
+37,female,59,157,23.94,moderate,muscle gain,2045,regular,none,high cholesterol
+38,female,72,176,23.24,moderate,weight loss,2316,regular,lactose,none
+21,female,70,171,23.94,active,maintenance,2646,vegan,nuts,none
+37,male,63,177,20.11,moderate,weight loss,2436,regular,none,none
+28,male,86,178,27.14,moderate,maintenance,3000,keto,none,none
+27,male,76,160,29.69,moderate,weight loss,2668,regular,none,high cholesterol
+29,female,63,162,24.01,active,weight loss,2426,vegan,nuts,diabetes
+18,female,84,175,27.43,moderate,maintenance,2617,regular,none,hypertension
+31,female,62,161,23.92,sedentary,muscle gain,1663,regular,lactose,none
+31,male,86,177,27.45,moderate,weight loss,2967,vegan,lactose,none
+35,male,88,166,31.93,moderate,weight loss,2891,keto,none,none
+42,female,71,159,28.08,moderate,weight loss,2193,regular,none,hypertension
+36,female,59,165,21.67,moderate,muscle gain,2090,regular,none,none
+18,female,77,154,32.47,sedentary,weight loss,1871,regular,none,high cholesterol
+43,female,76,161,29.32,sedentary,weight loss,1756,regular,none,none
+48,female,73,179,22.78,sedentary,maintenance,1763,regular,none,none
+42,male,68,158,27.24,moderate,muscle gain,2355,regular,none,high cholesterol
+45,female,61,148,27.85,sedentary,weight loss,1530,paleo,none,none
+22,male,78,168,27.64,active,weight loss,3130,regular,none,diabetes
+40,male,85,173,28.4,sedentary,weight loss,2196,regular,none,none
+23,female,48,163,18.07,active,weight loss,2237,regular,none,high cholesterol
+60,female,70,177,22.34,moderate,maintenance,2144,regular,none,none
+31,female,67,156,27.53,moderate,weight loss,2195,regular,none,none
+39,female,67,174,22.13,active,muscle gain,2479,regular,none,none
+35,male,84,162,32.01,sedentary,muscle gain,2151,regular,gluten,none
+22,male,72,167,25.82,active,weight loss,2983,regular,none,high cholesterol
+34,male,81,165,29.75,sedentary,weight loss,2127,regular,lactose,none
+39,female,70,161,27.01,sedentary,maintenance,1710,keto,none,none
+44,male,80,185,23.37,sedentary,maintenance,2158,regular,none,diabetes
+26,female,57,161,21.99,moderate,muscle gain,2109,paleo,none,none
+31,female,71,166,25.77,moderate,weight loss,2300,vegetarian,none,none
+43,male,90,168,31.89,sedentary,weight loss,2227,keto,none,none
+44,female,59,152,25.54,sedentary,weight loss,1528,keto,none,diabetes
+34,male,74,170,25.61,moderate,muscle gain,2639,regular,none,none
+46,female,74,174,24.44,moderate,weight loss,2281,keto,lactose,none
+29,male,79,183,23.59,moderate,weight loss,2883,regular,none,none
+35,female,81,160,31.64,active,weight loss,2658,regular,shellfish,none
+43,female,65,172,21.97,active,weight loss,2407,regular,none,none
+49,male,74,166,26.85,moderate,weight loss,2477,vegetarian,gluten,none
+46,male,86,180,26.54,sedentary,maintenance,2212,keto,none,none
+46,female,67,169,23.46,moderate,maintenance,2157,keto,none,none
+37,female,67,166,24.31,moderate,weight loss,2203,regular,none,none
+47,male,75,179,23.41,moderate,weight loss,2612,regular,lactose,none
+28,female,67,179,20.91,sedentary,maintenance,1801,vegan,none,high cholesterol
+35,male,90,179,28.09,moderate,weight loss,3029,regular,none,none
+18,female,60,149,27.03,moderate,weight loss,2148,regular,none,high cholesterol
+32,male,82,193,22.01,sedentary,maintenance,2318,regular,none,none
+18,female,64,175,20.9,sedentary,weight loss,1804,regular,none,diabetes
+39,female,62,154,26.14,sedentary,maintenance,1595,regular,shellfish,none
+34,female,69,172,23.32,moderate,muscle gain,2280,regular,none,none
+24,male,76,185,22.21,sedentary,weight loss,2230,regular,none,diabetes
+47,female,57,168,20.2,sedentary,weight loss,1550,regular,none,hypertension
+27,female,58,161,22.38,moderate,maintenance,2117,regular,none,none
+37,male,72,181,21.98,active,muscle gain,2952,regular,none,none
+43,female,68,181,20.76,sedentary,maintenance,1741,regular,none,none
+40,female,75,151,32.89,active,weight loss,2477,regular,none,high cholesterol
+32,male,81,169,28.36,moderate,maintenance,2794,vegetarian,gluten,none
+41,female,71,169,24.86,sedentary,maintenance,1740,vegan,gluten,none
+29,male,67,164,24.91,moderate,weight loss,2493,regular,gluten,none
+27,male,103,180,31.79,sedentary,muscle gain,2615,regular,none,none
+18,female,77,167,27.61,active,maintenance,2758,regular,none,high cholesterol
+44,male,75,186,21.68,moderate,maintenance,2691,paleo,none,none
+29,female,59,179,18.41,sedentary,weight loss,1707,regular,gluten,none
+37,male,85,189,23.8,sedentary,weight loss,2309,regular,none,none
+27,female,56,156,23.01,sedentary,weight loss,1598,regular,none,none
+34,female,76,188,21.5,sedentary,maintenance,1903,regular,none,high cholesterol
+20,male,80,178,25.25,moderate,maintenance,2946,vegetarian,none,none
+42,male,61,186,17.63,sedentary,weight loss,1872,vegetarian,none,none
+23,male,74,180,22.84,moderate,weight loss,2810,regular,none,none
+42,female,54,162,20.58,active,weight loss,2185,regular,none,hypertension
+36,female,51,151,22.37,active,muscle gain,2124,regular,none,none
+22,female,69,154,29.09,moderate,muscle gain,2275,keto,gluten,diabetes
+42,male,70,154,29.52,sedentary,muscle gain,1832,keto,none,none
+42,male,78,176,25.18,moderate,weight loss,2696,regular,none,none
+32,female,56,156,23.01,moderate,maintenance,2031,regular,none,none
+38,male,72,156,29.59,sedentary,weight loss,1903,regular,none,hypertension
+33,female,68,147,31.47,moderate,weight loss,2153,paleo,gluten,none
+32,female,65,149,29.28,active,maintenance,2366,regular,none,none
+39,male,90,173,30.07,sedentary,maintenance,2283,regular,none,none
+45,female,80,178,25.25,sedentary,weight loss,1853,low-carb,none,hypertension
+18,female,64,171,21.89,sedentary,weight loss,1789,regular,none,none
+39,male,53,178,16.73,moderate,weight loss,2218,vegetarian,none,none
+45,male,95,172,32.11,active,muscle gain,3331,regular,none,diabetes
+36,male,82,184,24.22,sedentary,muscle gain,2239,vegan,none,high cholesterol
+30,female,68,171,23.26,active,maintenance,2547,regular,none,hypertension
+45,female,60,171,20.52,sedentary,muscle gain,1605,vegan,none,diabetes
+56,female,57,168,20.2,moderate,muscle gain,1942,vegan,none,hypertension
+18,female,58,186,16.76,sedentary,weight loss,1779,vegetarian,lactose,high cholesterol
+36,male,74,180,22.84,sedentary,weight loss,2087,vegan,none,none
+29,male,70,172,23.66,sedentary,maintenance,2024,regular,none,none
+41,male,64,181,19.54,moderate,maintenance,2452,regular,none,high cholesterol
+36,male,80,162,30.48,moderate,muscle gain,2686,keto,none,none
+18,female,52,159,20.57,moderate,muscle gain,2082,regular,none,none
+34,female,62,160,24.22,sedentary,maintenance,1643,keto,none,none
+48,male,66,182,19.93,sedentary,weight loss,1888,regular,none,none
+56,female,56,176,18.08,moderate,muscle gain,1966,regular,shellfish,none
+20,male,74,166,26.85,sedentary,maintenance,2115,regular,none,none
+38,female,51,171,17.44,active,maintenance,2216,vegetarian,none,none
+49,male,86,157,34.89,moderate,weight loss,2659,regular,none,none
+35,female,65,167,23.31,moderate,muscle gain,2192,regular,none,none
+20,male,77,162,29.34,active,maintenance,3077,regular,none,none
+23,male,65,170,22.49,moderate,weight loss,2549,regular,none,none
+35,female,61,170,21.11,sedentary,weight loss,1664,regular,none,none
+39,male,98,162,37.34,moderate,weight loss,3034,vegetarian,none,hypertension
+25,female,60,169,21.01,active,weight loss,2446,regular,none,none
+45,female,71,154,29.94,active,weight loss,2391,paleo,none,high cholesterol
+31,female,59,161,22.76,moderate,weight loss,2104,vegan,none,none
+43,female,63,161,24.3,sedentary,maintenance,1611,vegan,none,hypertension
+23,female,69,167,24.74,moderate,weight loss,2330,regular,none,none
+26,female,66,140,33.67,moderate,muscle gain,2138,low-carb,none,none
+57,male,76,155,31.63,sedentary,weight loss,1832,regular,none,none
+40,female,64,156,26.3,moderate,muscle gain,2092,regular,none,diabetes
+18,female,61,157,24.75,active,weight loss,2450,regular,none,hypertension
+33,male,72,164,26.77,sedentary,maintenance,1983,regular,gluten,none
+37,male,92,183,27.47,sedentary,maintenance,2387,vegan,none,hypertension
+25,female,82,157,33.27,sedentary,weight loss,1901,regular,none,none
+36,female,70,155,29.14,moderate,weight loss,2200,paleo,none,high cholesterol
+27,female,74,172,25.01,moderate,muscle gain,2399,regular,gluten,none
+27,female,57,169,19.96,active,muscle gain,2383,regular,none,diabetes
+49,male,93,171,31.8,active,maintenance,3237,regular,none,high cholesterol
+25,male,81,182,24.45,sedentary,weight loss,2286,regular,gluten,none
+41,male,69,190,19.11,active,maintenance,2918,regular,gluten,hypertension
+54,female,65,158,26.04,sedentary,maintenance,1565,regular,none,none
+44,male,86,159,34.02,active,maintenance,3025,regular,none,none
+34,male,63,161,24.3,moderate,muscle gain,2344,regular,none,high cholesterol
+29,male,71,171,24.28,sedentary,weight loss,2035,low-carb,none,none
+28,male,74,163,27.85,sedentary,weight loss,2044,regular,none,none
+56,female,70,148,31.96,active,weight loss,2261,regular,none,none
+39,female,63,164,23.42,sedentary,maintenance,1643,regular,none,none
+18,male,71,165,26.08,moderate,muscle gain,2680,regular,none,high cholesterol
+18,male,71,159,28.08,sedentary,muscle gain,2040,regular,none,none
+37,female,89,151,39.03,sedentary,maintenance,1894,regular,none,none
+65,female,72,187,20.59,sedentary,weight loss,1694,regular,none,diabetes
+44,female,77,145,36.62,sedentary,maintenance,1702,regular,none,none
+46,female,68,162,25.91,sedentary,weight loss,1655,regular,none,none
+34,female,55,170,19.03,sedentary,muscle gain,1603,regular,none,diabetes
+37,female,70,163,26.35,sedentary,maintenance,1728,vegan,none,none
+33,male,78,171,26.67,moderate,maintenance,2738,keto,none,high cholesterol
+37,male,57,176,18.4,sedentary,weight loss,1784,vegetarian,gluten,none
+20,male,91,179,28.4,active,weight loss,3541,regular,none,none
+36,female,71,168,25.16,moderate,muscle gain,2277,regular,none,none
+23,male,81,160,31.64,sedentary,muscle gain,2173,keto,none,none
+35,male,71,178,22.41,sedentary,weight loss,2034,vegetarian,shellfish,none
+47,male,61,167,21.87,moderate,maintenance,2232,regular,none,none
+47,female,57,157,23.12,moderate,weight loss,1949,regular,none,hypertension
+35,male,76,168,26.93,sedentary,maintenance,2057,vegetarian,none,none
+30,male,77,160,30.08,active,maintenance,2963,vegetarian,none,none
+30,male,68,169,23.81,sedentary,maintenance,1968,regular,none,none
+28,male,89,193,23.89,active,muscle gain,3533,paleo,none,high cholesterol
+45,female,64,179,19.97,moderate,muscle gain,2169,paleo,none,none
+33,female,64,165,23.51,sedentary,maintenance,1689,vegan,none,none
+24,male,55,185,16.07,sedentary,maintenance,1892,regular,none,none
+32,male,64,164,23.8,moderate,maintenance,2404,regular,none,none
+22,male,82,189,22.96,sedentary,weight loss,2363,regular,none,none
+38,male,67,161,25.85,moderate,maintenance,2391,regular,none,none
+58,female,76,160,29.69,moderate,weight loss,2162,regular,none,none
+34,male,79,178,24.93,sedentary,weight loss,2170,regular,lactose,none
+32,female,63,165,23.14,moderate,weight loss,2174,regular,none,none
+32,male,89,185,26.0,sedentary,maintenance,2384,regular,none,none
+35,male,72,161,27.78,sedentary,maintenance,1952,regular,none,none
+36,male,47,176,15.17,moderate,maintenance,2105,regular,none,none
+27,male,93,166,33.75,moderate,weight loss,3065,regular,none,none
+18,female,61,176,19.69,moderate,muscle gain,2292,regular,none,none
+27,female,56,163,21.08,active,muscle gain,2335,regular,nuts,high cholesterol
+33,male,75,178,23.67,moderate,muscle gain,2728,regular,none,none
+25,male,70,170,24.22,sedentary,weight loss,2040,regular,none,none
+29,female,59,162,22.48,moderate,weight loss,2123,regular,none,none
+38,female,74,167,26.53,active,weight loss,2561,regular,none,hypertension
+27,male,68,169,23.81,moderate,weight loss,2569,vegetarian,none,none
+27,female,60,152,25.97,active,weight loss,2340,regular,none,none
+32,male,82,165,30.12,sedentary,maintenance,2157,regular,none,none
+36,male,71,159,28.08,sedentary,weight loss,1918,regular,none,none
+32,male,76,170,26.3,moderate,weight loss,2698,regular,none,hypertension
+24,male,79,163,29.73,active,muscle gain,3092,regular,none,none
+37,male,56,183,16.72,active,weight loss,2599,regular,none,none
+20,male,69,174,22.79,active,weight loss,2992,regular,none,none
+36,male,75,165,27.55,sedentary,weight loss,2017,regular,none,none
+41,male,89,182,26.87,sedentary,weight loss,2306,regular,none,none
+30,female,75,186,21.68,sedentary,maintenance,1905,regular,none,hypertension
+18,male,67,178,21.15,moderate,weight loss,2694,regular,none,none
+25,male,66,164,24.54,moderate,muscle gain,2507,vegetarian,none,none
+22,male,71,179,22.16,sedentary,muscle gain,2128,paleo,none,none
+33,male,72,183,21.5,sedentary,muscle gain,2093,regular,none,none
+40,male,73,191,20.01,moderate,maintenance,2722,regular,none,none
+36,male,85,186,24.57,sedentary,maintenance,2298,regular,none,none
+25,female,74,162,28.2,sedentary,maintenance,1831,regular,none,high cholesterol
+21,female,54,163,20.32,moderate,muscle gain,2110,regular,none,high cholesterol
+22,male,67,185,19.58,moderate,weight loss,2711,vegan,none,none
+33,male,80,170,27.68,sedentary,weight loss,2146,regular,none,none
+37,female,53,151,23.24,sedentary,weight loss,1494,regular,none,none
+30,male,92,169,32.21,moderate,muscle gain,3040,regular,none,diabetes
+18,female,51,151,22.37,sedentary,maintenance,1571,regular,none,none
+28,male,78,177,24.9,sedentary,weight loss,2189,vegan,none,none
+18,female,72,156,29.59,moderate,maintenance,2354,vegan,lactose,none
+31,female,69,168,24.45,sedentary,weight loss,1766,regular,none,none
+43,female,66,173,22.05,sedentary,muscle gain,1689,regular,none,none
+42,male,78,179,24.34,moderate,muscle gain,2719,regular,none,diabetes
+20,male,84,157,34.08,moderate,maintenance,2873,regular,none,hypertension
+35,male,76,179,23.72,moderate,weight loss,2739,regular,none,none
+22,male,74,158,29.64,moderate,weight loss,2655,vegan,none,none
+44,female,80,161,30.86,sedentary,weight loss,1795,regular,none,hypertension
+35,male,59,171,20.18,active,maintenance,2589,regular,shellfish,high cholesterol
+18,female,72,179,22.47,moderate,weight loss,2464,vegan,shellfish,none
+55,male,98,167,35.14,active,maintenance,3261,regular,none,none
+40,female,58,156,23.83,active,maintenance,2232,regular,none,none
+18,female,58,169,20.31,active,weight loss,2466,regular,nuts,high cholesterol
+41,female,64,173,21.38,sedentary,weight loss,1677,regular,none,none
+47,male,68,154,28.67,sedentary,weight loss,1766,regular,none,high cholesterol
+46,female,77,180,23.77,sedentary,weight loss,1822,regular,nuts,hypertension
+44,female,68,159,26.9,sedentary,weight loss,1654,regular,none,none
+28,female,64,180,19.75,active,weight loss,2546,regular,none,none
+33,male,99,178,31.25,sedentary,maintenance,2498,vegetarian,none,none
+23,male,85,188,24.05,moderate,weight loss,3098,regular,none,hypertension
+41,male,88,173,29.4,moderate,maintenance,2890,regular,none,none
+31,male,63,169,22.06,moderate,muscle gain,2429,regular,none,none
+40,female,63,165,23.14,sedentary,weight loss,1642,regular,none,none
+29,male,82,182,24.76,sedentary,weight loss,2275,regular,none,none
+22,male,86,175,28.08,sedentary,maintenance,2347,regular,none,none
+27,female,61,146,28.62,sedentary,weight loss,1616,regular,none,hypertension
+29,male,79,188,22.35,moderate,weight loss,2921,regular,shellfish,hypertension
+26,male,77,171,26.33,sedentary,maintenance,2152,regular,none,diabetes
+21,male,104,177,33.2,moderate,weight loss,3428,regular,none,none
+42,female,71,163,26.72,moderate,weight loss,2212,regular,none,none
+32,female,69,156,28.35,moderate,maintenance,2217,regular,lactose,none
+35,male,73,174,24.11,sedentary,muscle gain,2043,regular,none,high cholesterol
+43,male,85,198,21.68,active,maintenance,3335,regular,none,none
+42,female,60,158,24.03,moderate,weight loss,2031,regular,none,none
+42,female,72,148,32.87,sedentary,muscle gain,1668,vegan,none,none
+48,female,69,175,22.53,moderate,maintenance,2201,regular,nuts,none
+27,male,110,165,40.4,sedentary,maintenance,2641,regular,none,none
+52,male,81,179,25.28,moderate,weight loss,2693,regular,none,none
+49,female,56,178,17.67,moderate,weight loss,2022,regular,none,diabetes
+43,female,58,139,30.02,moderate,weight loss,1904,regular,none,none
+38,male,75,178,23.67,moderate,maintenance,2684,keto,none,none
+18,male,80,178,25.25,moderate,weight loss,2964,vegetarian,none,none
+25,female,72,170,24.91,moderate,weight loss,2374,vegetarian,none,hypertension
+26,male,65,173,21.72,moderate,maintenance,2545,regular,none,none
+21,male,80,174,26.42,moderate,maintenance,2908,regular,none,none
+32,female,67,160,26.17,moderate,weight loss,2208,regular,none,none
+25,female,52,156,21.37,sedentary,weight loss,1564,vegan,none,diabetes
+26,male,82,165,30.12,sedentary,maintenance,2197,regular,none,none
+42,female,61,163,22.96,moderate,weight loss,2069,vegetarian,none,high cholesterol
+18,male,73,174,24.11,moderate,maintenance,2789,regular,none,none
+51,female,60,164,22.31,sedentary,muscle gain,1548,regular,none,none
+33,female,73,156,30.0,moderate,weight loss,2268,regular,none,hypertension
+37,female,78,172,26.37,sedentary,maintenance,1850,regular,nuts,hypertension
+41,female,58,152,25.1,active,maintenance,2203,regular,none,hypertension
+19,male,80,166,29.03,moderate,maintenance,2866,regular,none,none
+52,female,66,176,21.31,active,maintenance,2377,vegetarian,none,high cholesterol
+32,male,81,177,25.85,sedentary,weight loss,2210,regular,none,none
+36,female,72,168,25.51,sedentary,maintenance,1774,keto,nuts,none
+43,male,80,168,28.34,sedentary,weight loss,2067,vegan,none,none
+26,female,65,144,31.35,sedentary,maintenance,1659,keto,none,none
+30,male,90,185,26.3,moderate,maintenance,3118,regular,none,high cholesterol
+37,female,72,166,26.13,sedentary,maintenance,1761,regular,none,none
+39,female,69,158,27.64,active,weight loss,2426,regular,none,none
+26,female,59,165,21.67,sedentary,weight loss,1670,vegan,none,none
+58,female,82,170,28.37,active,weight loss,2555,regular,none,high cholesterol
+37,female,61,154,25.72,moderate,muscle gain,2059,regular,none,hypertension
+32,male,69,177,22.02,moderate,weight loss,2605,regular,none,hypertension
+18,male,81,175,26.45,sedentary,weight loss,2293,regular,none,high cholesterol
+44,male,92,163,34.63,sedentary,muscle gain,2224,regular,gluten,none
+29,male,88,172,29.75,sedentary,weight loss,2314,regular,none,none
+36,female,57,193,15.3,moderate,muscle gain,2196,regular,none,none
+37,female,83,177,26.49,moderate,maintenance,2485,regular,none,none
+46,female,73,182,22.04,sedentary,maintenance,1785,regular,none,diabetes
+42,male,65,189,18.2,active,muscle gain,2808,regular,none,none
+36,male,80,168,28.34,sedentary,muscle gain,2114,vegetarian,none,hypertension
+23,female,68,154,28.67,moderate,weight loss,2254,paleo,none,none
+32,female,60,164,22.31,moderate,maintenance,2126,regular,none,none
+40,female,68,176,21.95,moderate,weight loss,2245,regular,none,none
+36,male,66,164,24.54,active,weight loss,2683,regular,gluten,none
+37,male,66,195,17.36,active,maintenance,2930,low-carb,none,diabetes
+39,female,52,171,17.78,moderate,weight loss,1998,regular,none,none
+24,female,68,174,22.46,moderate,maintenance,2343,regular,none,none
+18,male,78,171,26.67,sedentary,weight loss,2222,keto,lactose,none
+34,female,65,158,26.04,moderate,weight loss,2156,regular,none,none
+43,male,67,181,20.45,moderate,weight loss,2496,regular,none,none
+32,female,80,156,32.87,sedentary,weight loss,1838,regular,nuts,none
+38,male,70,179,21.85,moderate,muscle gain,2588,regular,none,none
+25,female,75,171,25.65,sedentary,weight loss,1875,paleo,none,none
+32,male,72,169,25.21,sedentary,muscle gain,2019,regular,none,none
+36,female,62,179,19.35,sedentary,muscle gain,1703,vegan,gluten,none
+38,female,69,159,27.29,moderate,weight loss,2191,regular,none,none
+28,male,75,173,25.06,moderate,muscle gain,2735,vegetarian,nuts,none
+42,female,77,175,25.14,sedentary,weight loss,1824,regular,none,hypertension
+31,female,66,180,20.37,moderate,muscle gain,2296,regular,gluten,high cholesterol
+40,male,101,173,33.75,moderate,weight loss,3169,regular,none,none
+32,female,68,156,27.94,active,weight loss,2451,regular,none,none
+26,female,55,167,19.72,active,maintenance,2348,regular,none,none
+23,male,83,164,30.86,moderate,weight loss,2878,regular,none,hypertension
+18,female,71,142,35.21,sedentary,weight loss,1759,regular,none,none
+25,male,86,187,24.59,active,weight loss,3443,vegetarian,none,none
+25,female,68,182,20.53,sedentary,weight loss,1838,regular,none,none
+43,female,59,160,23.05,moderate,muscle gain,2019,regular,none,none
+38,female,60,161,23.15,moderate,maintenance,2072,keto,none,none
+28,female,68,163,25.59,sedentary,weight loss,1752,vegetarian,none,none
+34,female,64,152,27.7,sedentary,weight loss,1636,regular,none,hypertension
+37,male,65,171,22.23,sedentary,weight loss,1884,regular,none,hypertension
+29,female,72,166,26.13,active,weight loss,2591,regular,none,diabetes
+24,female,76,169,26.61,moderate,muscle gain,2434,keto,none,none
+34,female,58,170,20.07,sedentary,weight loss,1636,regular,none,diabetes
+36,male,76,160,29.69,active,weight loss,2881,regular,none,none
+24,male,71,193,19.06,sedentary,weight loss,2195,regular,none,none
+18,male,88,183,26.28,sedentary,weight loss,2452,vegan,shellfish,hypertension
+30,female,74,158,29.64,moderate,weight loss,2312,regular,none,diabetes
+34,male,74,181,22.59,sedentary,muscle gain,2106,regular,lactose,none
+52,female,68,151,29.82,moderate,maintenance,2044,regular,none,high cholesterol
+32,female,76,153,32.47,moderate,weight loss,2303,regular,none,none
+39,female,68,162,25.91,sedentary,maintenance,1691,paleo,none,none
+54,male,75,178,23.67,sedentary,weight loss,1969,regular,none,none
+32,female,67,170,23.18,moderate,weight loss,2256,vegetarian,none,high cholesterol
+48,female,70,183,20.9,moderate,weight loss,2254,vegan,none,diabetes
+26,female,63,184,18.61,active,weight loss,2566,regular,none,hypertension
+18,male,64,187,18.3,moderate,maintenance,2699,vegetarian,none,diabetes
+30,male,67,151,29.38,sedentary,muscle gain,1848,regular,none,none
+27,male,67,179,20.91,sedentary,muscle gain,2030,regular,none,none
+40,female,63,177,20.11,moderate,maintenance,2178,regular,none,none
+28,female,60,161,23.15,sedentary,muscle gain,1656,regular,none,none
+18,male,80,182,24.15,moderate,weight loss,2994,regular,none,high cholesterol
+40,female,38,158,15.22,sedentary,maintenance,1338,regular,none,none
+19,male,83,179,25.9,moderate,muscle gain,3025,regular,none,none
+37,male,69,179,21.53,moderate,weight loss,2576,vegetarian,none,none
+29,male,95,183,28.37,sedentary,maintenance,2490,regular,none,none
+32,female,71,173,23.72,sedentary,maintenance,1802,regular,none,diabetes
+24,male,60,190,16.62,moderate,muscle gain,2585,regular,none,none
+39,female,77,170,26.64,moderate,muscle gain,2352,regular,none,none
+37,male,74,170,25.61,moderate,maintenance,2613,regular,none,none
+28,male,91,145,43.28,sedentary,weight loss,2213,regular,none,none
+20,male,90,175,29.39,active,muscle gain,3485,regular,none,diabetes
+36,male,81,178,25.56,moderate,maintenance,2826,regular,none,high cholesterol
+25,male,87,177,27.77,sedentary,weight loss,2354,regular,none,none
+38,female,59,157,23.94,active,weight loss,2268,paleo,none,high cholesterol
+36,female,82,160,32.03,sedentary,maintenance,1855,regular,none,high cholesterol
+37,male,74,170,25.61,moderate,weight loss,2613,keto,nuts,hypertension
+32,male,75,182,22.64,moderate,weight loss,2767,vegan,none,none
+43,male,65,186,18.79,moderate,maintenance,2492,regular,none,none
+22,male,72,169,25.21,active,weight loss,3000,regular,none,none
+31,female,87,171,29.75,moderate,muscle gain,2554,regular,none,none
+31,male,91,173,30.41,sedentary,maintenance,2354,vegetarian,none,none
+30,female,62,173,20.72,sedentary,maintenance,1712,vegetarian,none,high cholesterol
+36,female,77,184,22.74,sedentary,maintenance,1889,keto,none,hypertension
+46,female,67,151,29.38,sedentary,muscle gain,1603,regular,none,none
+35,male,63,175,20.57,sedentary,weight loss,1888,regular,none,none
+19,female,79,175,25.8,moderate,maintenance,2539,vegetarian,none,hypertension
+31,male,62,172,20.96,moderate,weight loss,2431,keto,none,none
+34,female,75,150,33.33,moderate,weight loss,2261,regular,lactose,none
+26,male,76,170,26.3,moderate,weight loss,2751,regular,none,none
+43,male,69,172,23.32,moderate,weight loss,2471,paleo,none,high cholesterol
+31,male,79,186,22.84,moderate,weight loss,2888,regular,none,none
+40,female,61,152,26.4,active,weight loss,2259,regular,none,high cholesterol
+44,female,48,172,16.22,sedentary,maintenance,1481,keto,gluten,none
+48,female,58,170,20.07,moderate,weight loss,2019,regular,none,none
+43,male,71,187,20.3,active,weight loss,2920,regular,none,none
+32,male,73,189,20.44,active,muscle gain,3091,regular,none,hypertension
+32,male,64,169,22.41,sedentary,maintenance,1890,regular,none,none
+30,female,69,186,19.94,sedentary,weight loss,1838,regular,none,none
+33,female,60,161,23.15,sedentary,weight loss,1630,regular,none,none
+52,male,68,162,25.91,moderate,weight loss,2296,regular,none,none
+33,male,80,191,21.93,moderate,maintenance,2929,regular,none,none
+47,male,80,167,28.69,moderate,muscle gain,2627,regular,none,hypertension
+52,male,83,169,29.06,sedentary,maintenance,2059,regular,none,none
+37,female,61,162,23.24,active,weight loss,2334,regular,none,none
+20,male,67,174,22.13,moderate,weight loss,2647,regular,none,none
+46,male,92,181,28.08,active,maintenance,3326,low-carb,none,hypertension
+27,female,60,176,19.37,moderate,weight loss,2218,regular,none,none
+42,male,89,180,27.47,sedentary,weight loss,2287,vegan,none,none
+25,female,55,170,19.03,sedentary,weight loss,1650,regular,none,diabetes
+18,female,68,171,23.26,sedentary,weight loss,1834,regular,none,hypertension
+35,female,73,159,28.88,moderate,maintenance,2269,regular,none,diabetes
+20,female,63,157,25.56,sedentary,weight loss,1716,regular,none,none
+37,male,87,201,21.53,sedentary,weight loss,2410,vegetarian,none,hypertension
+37,male,69,176,22.28,sedentary,weight loss,1977,vegetarian,lactose,diabetes
+46,female,73,154,30.78,moderate,maintenance,2171,vegan,none,none
+30,female,71,171,24.28,moderate,muscle gain,2331,regular,none,none
+27,female,63,162,24.01,sedentary,weight loss,1698,regular,none,none
+28,female,66,156,27.12,sedentary,weight loss,1704,paleo,none,none
+32,female,62,161,23.92,sedentary,weight loss,1657,regular,none,none
+22,female,72,161,27.78,active,muscle gain,2617,regular,none,none
+39,female,67,173,22.39,moderate,muscle gain,2223,regular,lactose,none
+47,female,77,151,33.77,moderate,weight loss,2207,low-carb,none,diabetes
+42,male,73,173,24.39,active,weight loss,2860,regular,none,none
+31,male,94,181,28.69,active,muscle gain,3520,regular,none,none
+43,female,57,160,22.27,moderate,maintenance,1990,regular,none,none
+18,female,54,182,16.3,sedentary,weight loss,1719,regular,none,none
+37,male,63,162,24.01,sedentary,weight loss,1800,regular,none,none
+36,female,59,159,23.34,moderate,muscle gain,2061,regular,none,none
+38,male,81,181,24.72,moderate,maintenance,2831,vegan,none,none
+32,female,68,162,25.91,sedentary,muscle gain,1728,regular,none,none
+36,female,64,171,21.89,moderate,muscle gain,2191,regular,none,none
+26,female,82,164,30.49,moderate,maintenance,2482,regular,none,none
+31,male,91,168,32.24,moderate,muscle gain,3003,regular,none,none
+53,male,74,193,19.87,sedentary,muscle gain,2046,vegetarian,none,none
+24,female,66,154,27.83,active,maintenance,2469,regular,none,diabetes
+21,female,68,157,27.59,sedentary,weight loss,1766,regular,none,none
+49,female,70,156,28.76,moderate,maintenance,2117,regular,none,none
+41,female,73,181,22.28,active,weight loss,2598,vegan,none,none
+53,male,83,186,23.99,active,weight loss,3091,regular,none,high cholesterol
+28,male,67,174,22.13,moderate,weight loss,2576,regular,none,none
+26,male,76,150,33.78,moderate,weight loss,2602,regular,none,none
+27,female,76,176,24.54,moderate,weight loss,2447,regular,gluten,none
+47,female,62,186,17.92,moderate,maintenance,2160,regular,gluten,none
+20,male,80,169,28.01,active,muscle gain,3204,regular,gluten,none
+40,female,65,179,20.29,sedentary,weight loss,1716,regular,none,diabetes
+37,male,77,167,27.61,active,weight loss,2952,regular,none,none
+24,female,64,169,22.41,moderate,muscle gain,2262,regular,none,hypertension
+42,female,70,153,29.9,active,weight loss,2393,regular,none,none
+25,male,80,171,27.36,moderate,muscle gain,2850,regular,none,high cholesterol
+43,female,59,171,20.18,moderate,weight loss,2072,regular,none,none
+41,female,55,159,21.76,moderate,weight loss,1970,regular,none,none
+32,male,77,183,22.99,moderate,maintenance,2816,vegan,none,none
+30,female,66,171,22.57,active,muscle gain,2515,vegan,none,high cholesterol
+39,female,56,167,20.08,moderate,maintenance,2037,regular,none,high cholesterol
+41,male,66,167,23.67,sedentary,muscle gain,1849,regular,none,hypertension
+18,female,76,146,35.65,sedentary,muscle gain,1830,vegetarian,none,hypertension
+18,male,83,164,30.86,moderate,muscle gain,2922,regular,none,none
+36,male,82,162,31.25,sedentary,weight loss,2112,regular,none,none
+29,female,64,167,22.95,sedentary,muscle gain,1717,vegan,none,high cholesterol
+26,female,71,152,30.73,moderate,maintenance,2267,regular,gluten,none
+39,male,55,185,16.07,moderate,maintenance,2312,regular,none,none
+19,male,73,191,20.01,sedentary,maintenance,2250,regular,none,none
+32,male,86,185,25.13,moderate,muscle gain,3017,regular,none,none
+30,female,68,149,30.63,sedentary,weight loss,1690,regular,none,hypertension
+21,female,49,159,19.38,sedentary,maintenance,1563,regular,none,high cholesterol
+18,male,74,156,30.41,moderate,maintenance,2676,regular,none,diabetes
+38,male,67,166,24.31,moderate,weight loss,2429,regular,none,none
+33,female,65,175,21.22,moderate,weight loss,2244,vegetarian,none,none
+23,male,72,176,23.24,active,weight loss,3048,regular,none,diabetes
+29,female,56,163,21.08,moderate,maintenance,2084,low-carb,none,none
+39,male,90,191,24.67,sedentary,maintenance,2387,regular,none,none
+33,female,72,171,24.62,active,weight loss,2588,vegetarian,lactose,none
+36,male,66,201,16.34,sedentary,maintenance,2079,regular,none,diabetes
+27,male,91,177,29.05,active,weight loss,3456,vegetarian,none,hypertension
+31,male,53,170,18.34,active,muscle gain,2481,keto,none,none
+47,female,74,160,28.91,moderate,maintenance,2207,regular,none,none
+37,male,75,173,25.06,active,muscle gain,2955,regular,shellfish,high cholesterol
+40,male,75,163,28.23,active,weight loss,2843,regular,shellfish,none
+28,female,58,156,23.83,moderate,maintenance,2086,regular,none,none
+28,male,107,170,37.02,sedentary,maintenance,2614,regular,none,none
+33,male,82,169,28.71,moderate,weight loss,2806,regular,none,none
+29,female,65,161,25.08,active,weight loss,2453,vegan,none,none
+34,male,76,177,24.26,sedentary,maintenance,2116,regular,none,none
+19,female,68,159,26.9,sedentary,weight loss,1784,regular,none,diabetes
+31,female,53,160,20.7,sedentary,weight loss,1559,vegan,lactose,none
+25,male,84,173,28.07,moderate,maintenance,2948,keto,none,none
+32,male,99,167,35.5,sedentary,muscle gain,2441,regular,none,diabetes
+24,male,84,177,26.81,sedentary,weight loss,2312,regular,none,none
+31,male,74,163,27.85,moderate,weight loss,2613,vegetarian,none,high cholesterol
+35,male,110,148,50.22,sedentary,muscle gain,2488,regular,none,none
+34,female,67,172,22.65,moderate,maintenance,2252,regular,none,high cholesterol
+28,male,85,182,25.66,moderate,weight loss,3009,regular,none,none
+34,female,61,179,19.04,sedentary,muscle gain,1703,regular,none,diabetes
+43,male,54,190,14.96,moderate,maintenance,2293,regular,none,high cholesterol
+42,female,52,145,24.73,moderate,muscle gain,1853,regular,none,none
+18,female,63,162,24.01,sedentary,maintenance,1745,vegan,none,none
+24,male,84,178,26.51,moderate,muscle gain,2994,regular,none,diabetes
+47,male,73,168,25.86,active,maintenance,2770,regular,shellfish,none
+40,female,61,165,22.41,sedentary,maintenance,1620,regular,none,none
+48,male,75,174,24.77,moderate,muscle gain,2566,vegetarian,none,hypertension
+31,female,73,164,27.14,moderate,muscle gain,2320,vegetarian,none,diabetes
+23,male,78,177,24.9,moderate,muscle gain,2871,regular,none,none
+18,male,78,176,25.18,moderate,muscle gain,2907,regular,none,none
+43,male,87,173,29.07,active,weight loss,3174,regular,none,none
+44,female,57,152,24.67,moderate,weight loss,1945,keto,none,none
+20,female,73,180,22.53,sedentary,weight loss,1912,regular,nuts,diabetes
+31,female,71,153,30.33,active,maintenance,2491,regular,none,hypertension
+31,male,85,189,23.8,sedentary,maintenance,2350,regular,none,hypertension
+40,female,74,168,26.22,sedentary,muscle gain,1775,keto,none,none
+49,male,72,170,24.91,active,weight loss,2744,regular,none,hypertension
+28,male,81,173,27.06,sedentary,weight loss,2214,vegan,gluten,none
+47,male,55,175,17.96,active,maintenance,2412,regular,none,none
+49,female,69,157,27.99,sedentary,weight loss,1632,regular,none,none
+39,male,85,179,26.53,moderate,maintenance,2890,regular,none,none
+44,female,54,180,16.67,moderate,weight loss,2037,regular,none,none
+39,female,86,168,30.47,sedentary,muscle gain,1913,regular,shellfish,hypertension
+18,male,83,176,26.79,sedentary,maintenance,2331,regular,none,none
+51,female,53,171,18.13,moderate,weight loss,1932,regular,none,diabetes
+39,male,60,171,20.52,sedentary,maintenance,1790,regular,none,none
+50,female,68,173,22.72,sedentary,weight loss,1675,regular,none,none
+35,female,74,159,29.27,moderate,maintenance,2283,regular,none,none
+26,male,71,166,25.77,sedentary,maintenance,2026,regular,none,none
+35,female,72,162,27.43,sedentary,weight loss,1756,vegan,gluten,none
+28,male,59,181,18.01,moderate,weight loss,2462,regular,shellfish,hypertension
+41,female,68,159,26.9,active,weight loss,2400,vegan,none,diabetes
+41,female,60,151,26.31,moderate,maintenance,2004,regular,none,none
+38,male,79,186,22.84,moderate,maintenance,2827,regular,nuts,none
+32,female,60,163,22.58,sedentary,weight loss,1643,regular,none,none
+29,female,56,164,20.82,sedentary,weight loss,1618,paleo,gluten,none
+39,male,68,176,21.95,sedentary,maintenance,1947,vegan,lactose,none
+32,male,79,159,31.25,moderate,maintenance,2679,regular,none,none
+18,male,84,183,25.08,moderate,maintenance,3084,regular,none,none
+43,male,73,189,20.44,active,muscle gain,2983,regular,nuts,none
+43,female,68,166,24.68,moderate,weight loss,2177,regular,none,none
+32,female,60,166,21.77,sedentary,weight loss,1654,low-carb,none,none
+35,male,85,164,31.6,active,weight loss,3132,regular,none,diabetes
+18,male,93,193,24.97,moderate,weight loss,3345,regular,nuts,none
+33,female,60,178,18.94,moderate,weight loss,2187,regular,none,none
+39,male,92,171,31.46,active,weight loss,3312,vegetarian,none,none
+34,male,87,177,27.77,moderate,maintenance,2961,regular,shellfish,none
+63,male,60,161,23.15,active,maintenance,2255,vegetarian,none,none
+32,male,66,178,20.83,active,weight loss,2838,regular,none,diabetes
+43,male,84,157,34.08,moderate,weight loss,2671,regular,none,diabetes
+54,female,62,185,18.12,sedentary,muscle gain,1632,vegan,none,hypertension
+51,male,82,180,25.31,moderate,maintenance,2730,keto,none,none
+34,male,90,164,33.46,moderate,maintenance,2927,vegan,none,high cholesterol
+38,female,64,158,25.64,active,maintenance,2353,regular,none,none
+29,male,78,170,26.99,sedentary,weight loss,2141,regular,shellfish,none
+28,female,64,167,22.95,moderate,weight loss,2225,regular,shellfish,none
+40,male,80,174,26.42,active,maintenance,3050,regular,none,hypertension
+36,male,105,181,32.05,sedentary,maintenance,2591,regular,none,none
+29,male,63,161,24.3,moderate,weight loss,2388,vegan,none,none
+30,male,70,167,25.1,sedentary,maintenance,1989,low-carb,none,none
+19,male,74,189,20.72,sedentary,muscle gain,2255,vegan,none,none
+29,female,64,156,26.3,moderate,maintenance,2166,regular,none,none
+31,female,66,171,22.57,sedentary,muscle gain,1744,regular,gluten,none
+28,male,74,160,28.91,moderate,weight loss,2617,regular,none,hypertension
+26,female,65,169,22.76,moderate,weight loss,2262,keto,none,none
+47,male,82,174,27.08,active,weight loss,3028,vegetarian,none,none
+47,male,58,166,21.05,sedentary,weight loss,1674,regular,none,high cholesterol
+19,female,70,181,21.37,sedentary,weight loss,1888,regular,none,diabetes
+41,male,69,183,20.6,active,maintenance,2860,regular,none,none
+22,male,68,155,28.3,active,weight loss,2792,regular,none,none
+20,female,58,183,17.32,moderate,weight loss,2270,regular,none,hypertension
+26,male,76,169,26.61,active,weight loss,3053,regular,none,none
+30,male,68,172,22.99,sedentary,weight loss,1985,regular,none,none
+26,female,59,162,22.48,moderate,weight loss,2143,regular,none,high cholesterol
+18,male,95,175,31.02,moderate,weight loss,3253,regular,none,diabetes
+22,female,60,173,20.05,moderate,muscle gain,2237,regular,none,diabetes
+46,male,83,173,27.73,sedentary,maintenance,2123,regular,none,none
+40,female,63,157,25.56,moderate,weight loss,2082,regular,none,none
+30,male,87,173,29.07,moderate,weight loss,2966,regular,none,none
+28,female,68,161,26.23,sedentary,maintenance,1745,regular,none,none
+40,male,67,170,23.18,active,weight loss,2716,regular,none,diabetes
+20,male,76,156,31.23,moderate,weight loss,2700,regular,none,hypertension
+52,male,91,167,32.63,moderate,muscle gain,2811,regular,none,none
+33,female,76,169,26.61,moderate,weight loss,2373,regular,none,none
+18,male,98,174,32.37,sedentary,maintenance,2561,regular,none,none
+53,male,100,171,34.2,moderate,muscle gain,3019,regular,none,none
+38,male,80,169,28.01,moderate,maintenance,2721,regular,none,none
+39,female,56,162,21.34,active,weight loss,2240,regular,none,hypertension
+32,female,70,176,22.6,active,muscle gain,2590,vegetarian,none,none
+18,male,85,169,29.76,active,weight loss,3340,regular,gluten,none
+25,female,58,164,21.56,moderate,weight loss,2145,vegan,gluten,diabetes
+44,male,77,165,28.28,active,muscle gain,2867,regular,none,none
+38,female,68,173,22.72,active,maintenance,2497,regular,none,none
+34,female,70,151,30.7,moderate,weight loss,2194,regular,none,none
+53,female,60,167,21.51,sedentary,weight loss,1548,regular,none,none
+34,female,55,163,20.7,sedentary,muscle gain,1577,regular,none,none
+26,female,65,194,17.27,moderate,weight loss,2382,regular,none,none
+20,female,61,152,26.4,active,maintenance,2408,regular,none,hypertension
+48,male,83,171,28.38,moderate,weight loss,2710,regular,none,none
+18,male,83,175,27.1,active,weight loss,3343,regular,none,none
+27,male,83,178,26.2,active,weight loss,3280,regular,none,none
+25,male,75,183,22.4,sedentary,muscle gain,2195,vegetarian,none,none
+27,male,94,180,29.01,active,muscle gain,3550,regular,none,none
+38,male,75,164,27.89,moderate,weight loss,2580,regular,none,hypertension
+24,female,60,170,20.76,sedentary,maintenance,1710,regular,gluten,none
+22,male,66,166,23.95,moderate,maintenance,2549,regular,none,hypertension
+56,male,74,184,21.86,moderate,weight loss,2550,vegetarian,none,none
+18,male,67,177,21.39,moderate,muscle gain,2686,vegetarian,none,none
+26,female,58,168,20.55,moderate,maintenance,2157,regular,gluten,diabetes
+55,female,68,176,21.95,active,weight loss,2387,regular,none,none
+34,female,65,184,19.2,moderate,maintenance,2281,paleo,none,none
+51,female,72,170,24.91,active,weight loss,2448,keto,none,none
+32,male,65,171,22.23,active,weight loss,2757,regular,none,none
+31,male,71,181,21.67,active,muscle gain,2988,regular,none,none
+28,male,79,154,33.31,active,weight loss,2979,regular,none,none
+38,male,103,177,32.88,active,maintenance,3626,regular,none,diabetes
+28,female,67,163,25.22,moderate,muscle gain,2249,regular,none,diabetes
+46,male,60,193,16.11,sedentary,maintenance,1869,regular,none,none
+29,male,74,166,26.85,moderate,maintenance,2653,regular,none,none
+36,male,71,168,25.16,sedentary,maintenance,1970,regular,none,hypertension
+50,male,76,164,28.26,sedentary,maintenance,1932,vegetarian,none,high cholesterol
+18,female,58,150,25.78,sedentary,weight loss,1645,regular,none,none
+32,male,73,177,23.3,sedentary,maintenance,2081,vegetarian,none,diabetes
+37,female,77,153,32.89,sedentary,muscle gain,1768,regular,none,high cholesterol
+29,male,72,159,28.48,moderate,muscle gain,2560,regular,shellfish,high cholesterol
+37,female,66,159,26.11,sedentary,maintenance,1668,regular,none,none
+45,female,82,165,30.12,sedentary,muscle gain,1827,regular,none,hypertension
+27,male,90,170,31.14,active,maintenance,3375,keto,none,none
+48,female,57,160,22.27,moderate,weight loss,1957,regular,none,none
+30,male,76,180,23.46,active,weight loss,3105,regular,none,none
+36,female,45,161,17.36,active,weight loss,2081,regular,none,high cholesterol
+40,female,62,169,21.71,moderate,weight loss,2125,regular,none,none
+39,male,86,157,34.89,sedentary,maintenance,2127,keto,none,none
+18,female,68,168,24.09,sedentary,maintenance,1823,keto,none,hypertension
+47,female,71,170,24.57,sedentary,weight loss,1713,regular,none,none
+34,male,76,182,22.94,sedentary,maintenance,2144,regular,gluten,high cholesterol
+34,male,60,168,21.26,moderate,maintenance,2333,regular,shellfish,none
+23,male,72,181,21.98,active,weight loss,3089,regular,none,none
+34,female,64,158,25.64,moderate,weight loss,2142,vegetarian,none,none
+44,female,81,138,42.53,moderate,weight loss,2222,regular,none,none
+18,female,62,146,29.09,sedentary,maintenance,1674,regular,none,none
+37,male,74,170,25.61,moderate,muscle gain,2613,vegetarian,none,hypertension
+48,female,49,157,19.88,moderate,muscle gain,1828,regular,none,none
+31,female,66,196,17.18,sedentary,maintenance,1837,regular,none,none
+41,female,65,159,25.71,moderate,weight loss,2114,regular,none,none
+40,female,60,154,25.3,moderate,weight loss,2025,regular,none,none
+38,male,71,191,19.46,active,weight loss,3002,regular,none,none
+25,male,77,155,32.05,moderate,weight loss,2669,regular,none,none
+47,female,63,160,24.61,active,weight loss,2281,regular,none,none
+19,female,54,165,19.83,active,weight loss,2373,vegetarian,gluten,none
+36,female,66,155,27.47,sedentary,muscle gain,1659,regular,none,none
+31,female,69,185,20.16,moderate,muscle gain,2363,regular,none,high cholesterol
+29,female,77,170,26.64,sedentary,muscle gain,1873,regular,lactose,none
+24,male,46,164,17.1,active,maintenance,2338,regular,none,none
+18,male,96,174,31.71,active,weight loss,3635,regular,nuts,none
+41,male,89,164,33.09,moderate,weight loss,2844,regular,none,none
+43,male,72,192,19.53,moderate,weight loss,2682,paleo,none,none
+24,female,55,175,17.96,moderate,maintenance,2161,regular,none,none
+33,male,74,169,25.91,active,maintenance,2938,vegan,none,none
+37,female,55,161,21.22,moderate,weight loss,2007,regular,none,none
+24,female,76,160,29.69,moderate,weight loss,2390,regular,none,hypertension
+34,male,92,173,30.74,active,maintenance,3378,regular,none,diabetes
+27,female,79,167,28.33,moderate,weight loss,2447,regular,none,none
+28,female,64,167,22.95,sedentary,weight loss,1723,regular,none,none
+38,female,62,168,21.97,sedentary,maintenance,1652,regular,none,diabetes
+21,male,76,162,28.96,sedentary,maintenance,2118,regular,gluten,none
+55,male,82,179,25.59,sedentary,muscle gain,2080,regular,none,none
+47,male,75,177,23.94,sedentary,muscle gain,2011,regular,none,none
+31,male,84,170,29.07,sedentary,muscle gain,2224,vegan,none,none
+30,male,74,177,23.62,sedentary,weight loss,2111,vegan,none,none
+36,male,68,181,20.76,sedentary,maintenance,1996,regular,none,high cholesterol
+21,male,70,159,27.69,sedentary,weight loss,2004,regular,none,none
+18,female,53,151,23.24,moderate,weight loss,2058,regular,gluten,none
+40,female,58,159,22.94,sedentary,muscle gain,1564,regular,none,none
+48,female,47,152,20.34,moderate,maintenance,1775,regular,none,none
+39,female,56,167,20.08,sedentary,muscle gain,1577,keto,none,high cholesterol
+27,male,71,163,26.72,moderate,maintenance,2586,vegetarian,none,none
+29,male,89,201,22.03,moderate,maintenance,3225,regular,none,high cholesterol
+27,female,73,178,23.04,active,muscle gain,2686,regular,none,none
+39,male,82,156,33.69,moderate,weight loss,2657,regular,none,hypertension
+29,female,59,193,15.84,moderate,weight loss,2272,regular,none,diabetes
+40,male,79,185,23.08,moderate,maintenance,2802,regular,none,none
+24,female,62,166,22.5,sedentary,weight loss,1718,regular,none,high cholesterol
+34,male,82,186,23.7,moderate,weight loss,2924,keto,gluten,none
+27,male,88,173,29.4,moderate,weight loss,3014,regular,nuts,none
+18,female,53,178,16.73,moderate,weight loss,2187,regular,none,none
+36,female,71,153,30.33,moderate,maintenance,2204,vegan,none,hypertension
+36,female,68,165,24.98,moderate,weight loss,2219,vegan,none,none
+32,female,55,169,19.26,moderate,weight loss,2079,regular,none,hypertension
+23,male,74,162,28.2,sedentary,weight loss,2072,low-carb,nuts,none
+26,male,91,173,30.41,moderate,maintenance,3085,regular,none,none
+18,male,83,169,29.06,sedentary,weight loss,2291,regular,gluten,none
+45,male,64,180,19.75,active,weight loss,2681,vegan,none,none
+28,male,68,151,29.82,active,maintenance,2700,regular,none,none
+36,male,71,184,20.97,moderate,weight loss,2663,regular,none,hypertension
+35,female,71,144,34.24,sedentary,maintenance,1678,regular,none,high cholesterol
+19,female,36,164,13.38,active,weight loss,2081,regular,none,high cholesterol
+36,female,70,162,26.67,moderate,maintenance,2233,regular,nuts,hypertension
+21,male,72,176,23.24,moderate,muscle gain,2756,regular,shellfish,diabetes
+33,female,56,158,22.43,active,weight loss,2263,vegetarian,nuts,none
+42,female,57,180,17.59,sedentary,muscle gain,1621,vegetarian,none,none
+24,male,77,176,24.86,moderate,weight loss,2834,regular,none,none
+51,female,64,156,26.3,sedentary,maintenance,1562,regular,none,none
+36,female,62,173,20.72,moderate,muscle gain,2172,regular,lactose,high cholesterol
+19,female,51,165,18.73,moderate,maintenance,2090,regular,none,none
+30,male,88,172,29.75,moderate,weight loss,2980,regular,none,none
+39,female,66,160,25.78,moderate,weight loss,2146,regular,lactose,none
+18,female,60,160,23.44,active,weight loss,2450,regular,none,none
+24,female,71,151,31.14,active,maintenance,2532,regular,none,none
+48,female,61,182,18.42,sedentary,maintenance,1641,regular,none,high cholesterol
+26,female,69,140,35.2,sedentary,maintenance,1688,keto,gluten,high cholesterol
+31,male,66,185,19.28,sedentary,weight loss,2021,regular,none,none
+39,female,60,164,22.31,sedentary,maintenance,1610,regular,none,diabetes
+37,female,81,152,35.06,moderate,weight loss,2336,regular,none,none
+48,female,62,167,22.23,moderate,maintenance,2062,regular,none,high cholesterol
+37,male,99,190,27.42,active,muscle gain,3651,regular,none,none
+36,male,78,173,26.06,sedentary,weight loss,2111,regular,gluten,none
+51,male,71,176,22.92,moderate,muscle gain,2472,low-carb,none,high cholesterol
+34,male,86,195,22.62,sedentary,maintenance,2380,regular,none,none
+35,male,83,157,33.67,moderate,muscle gain,2720,regular,none,none
+34,male,67,175,21.88,moderate,weight loss,2531,regular,none,diabetes
+34,female,46,158,18.43,moderate,weight loss,1884,regular,none,none
+37,male,80,175,26.12,moderate,muscle gain,2774,regular,lactose,diabetes
+30,female,70,177,22.34,sedentary,muscle gain,1816,regular,none,hypertension
+26,female,58,147,26.84,moderate,weight loss,2056,vegan,none,none
+29,female,60,153,25.63,moderate,weight loss,2094,vegetarian,none,hypertension
+42,female,60,155,24.97,sedentary,maintenance,1561,regular,none,none
+41,female,70,165,25.71,active,muscle gain,2464,regular,none,none
+40,female,55,167,19.72,sedentary,muscle gain,1560,regular,gluten,diabetes
+18,female,69,148,31.5,active,muscle gain,2529,vegetarian,none,none
+43,male,71,158,28.44,sedentary,weight loss,1864,vegan,none,diabetes
+41,male,75,187,21.45,sedentary,maintenance,2109,regular,none,none
+35,male,53,180,16.36,active,muscle gain,2525,regular,none,none
+32,male,83,167,29.76,active,weight loss,3140,vegetarian,none,hypertension
+39,female,60,155,24.97,moderate,maintenance,2036,vegan,lactose,none
+36,male,79,182,23.85,moderate,weight loss,2814,regular,none,none
+50,female,59,158,23.63,active,muscle gain,2184,regular,none,hypertension
+39,female,58,163,21.83,active,weight loss,2277,vegetarian,none,none
+41,female,68,166,24.68,active,muscle gain,2438,regular,none,none
+43,male,54,188,15.28,moderate,weight loss,2278,regular,none,none
+25,male,70,179,21.85,moderate,weight loss,2702,vegetarian,none,none
+29,male,97,171,33.17,active,muscle gain,3526,vegan,none,diabetes
+36,female,79,159,31.25,moderate,muscle gain,2348,vegan,none,none
+35,female,68,159,26.9,moderate,weight loss,2197,regular,none,none
+52,female,78,168,27.64,sedentary,weight loss,1757,regular,none,none
+27,male,85,187,24.31,moderate,maintenance,3055,regular,none,hypertension
+18,female,68,167,24.38,sedentary,maintenance,1819,regular,none,none
+44,male,79,177,25.22,active,muscle gain,3012,regular,none,diabetes
+32,female,54,164,20.08,moderate,weight loss,2040,regular,none,none
+38,male,76,168,26.93,active,weight loss,2927,vegan,none,none
+47,male,70,166,25.4,sedentary,weight loss,1867,regular,none,hypertension
+51,male,70,177,22.34,sedentary,maintenance,1903,regular,none,none
+40,male,77,190,21.33,active,maintenance,3113,regular,none,hypertension
+34,male,90,173,30.07,moderate,maintenance,2994,regular,none,hypertension
+26,male,76,174,25.1,moderate,muscle gain,2781,regular,nuts,none
+47,male,79,194,20.99,active,maintenance,3124,regular,gluten,none
+28,female,63,166,22.86,sedentary,muscle gain,1708,vegan,none,none
+40,female,65,158,26.04,moderate,maintenance,2116,regular,none,none
+19,male,77,182,23.25,sedentary,weight loss,2263,regular,none,none
+31,male,74,167,26.53,moderate,weight loss,2643,regular,none,none
+55,male,71,185,20.75,moderate,weight loss,2503,regular,none,none
+40,male,76,191,20.83,sedentary,weight loss,2155,regular,none,none
+25,male,77,196,20.04,moderate,weight loss,2974,regular,none,none
+58,female,54,166,19.6,moderate,maintenance,1876,regular,none,none
+31,female,56,179,17.48,sedentary,weight loss,1663,regular,none,none
+41,male,70,165,25.71,sedentary,weight loss,1902,regular,none,hypertension
+30,male,64,179,19.97,moderate,weight loss,2533,regular,none,high cholesterol
+44,female,62,164,23.05,sedentary,weight loss,1606,regular,gluten,none
+32,male,77,176,24.86,sedentary,maintenance,2139,regular,none,diabetes
+50,female,64,165,23.51,sedentary,muscle gain,1601,regular,none,none
+41,female,74,158,29.64,moderate,weight loss,2238,vegan,none,none
+28,female,67,158,26.84,sedentary,weight loss,1722,regular,none,hypertension
+37,female,57,177,18.19,sedentary,weight loss,1635,regular,none,hypertension
+58,female,60,164,22.31,sedentary,weight loss,1511,regular,shellfish,none
+27,female,66,140,33.67,active,muscle gain,2371,regular,none,none
+28,male,79,157,32.05,active,weight loss,3004,regular,none,none
+41,male,82,169,28.71,sedentary,weight loss,2118,regular,none,high cholesterol
+42,male,77,175,25.14,sedentary,weight loss,2066,regular,none,none
+30,male,90,183,26.87,sedentary,weight loss,2402,regular,none,none
+34,female,65,177,20.75,sedentary,weight loss,1740,regular,none,hypertension
+26,female,64,149,28.83,sedentary,weight loss,1666,regular,gluten,none
+49,male,72,175,23.51,moderate,maintenance,2503,keto,none,none
+34,male,100,180,30.86,sedentary,maintenance,2519,low-carb,none,none
+40,male,76,153,32.47,moderate,muscle gain,2501,regular,none,none
+42,male,81,164,30.12,moderate,maintenance,2669,vegetarian,nuts,high cholesterol
+51,male,67,161,25.85,sedentary,muscle gain,1763,regular,none,none
+43,male,74,184,21.86,sedentary,maintenance,2062,regular,none,diabetes
+39,male,84,180,25.93,moderate,maintenance,2877,regular,shellfish,none
+44,male,80,184,23.63,active,muscle gain,3094,regular,none,high cholesterol
+24,female,71,163,26.72,sedentary,weight loss,1806,regular,none,none
+42,female,61,170,21.11,moderate,maintenance,2103,regular,none,none
+36,male,67,162,25.53,moderate,weight loss,2416,regular,none,none
+34,male,65,189,18.2,active,weight loss,2886,low-carb,gluten,hypertension
+31,female,71,150,31.56,sedentary,maintenance,1722,vegan,none,high cholesterol
+59,male,55,177,17.56,active,muscle gain,2311,regular,none,none
+33,male,79,170,27.34,active,muscle gain,3062,regular,none,diabetes
+28,female,69,164,25.65,moderate,weight loss,2282,vegan,gluten,hypertension
+25,male,84,175,27.43,sedentary,weight loss,2294,regular,none,diabetes
+31,female,70,163,26.35,active,maintenance,2528,vegetarian,none,high cholesterol
+32,female,56,178,17.67,moderate,muscle gain,2136,vegetarian,none,none
+46,male,79,163,29.73,sedentary,weight loss,2001,regular,none,none
+28,female,67,160,26.17,moderate,weight loss,2234,regular,none,hypertension
+60,male,83,190,22.99,moderate,weight loss,2746,regular,none,none
+49,male,81,179,25.28,moderate,muscle gain,2719,keto,gluten,none
+32,female,62,163,23.34,sedentary,weight loss,1665,keto,none,none
+29,female,57,162,21.72,sedentary,weight loss,1621,regular,none,hypertension
+37,male,90,173,30.07,sedentary,maintenance,2297,vegetarian,none,none
+30,female,71,158,28.44,sedentary,weight loss,1756,vegetarian,none,none
+25,male,74,177,23.62,moderate,weight loss,2770,regular,none,none
+28,female,66,183,19.71,moderate,muscle gain,2331,regular,none,none
+51,male,91,168,32.24,moderate,weight loss,2828,low-carb,lactose,diabetes
+38,male,63,186,18.21,moderate,maintenance,2494,regular,shellfish,none
+32,female,60,154,25.3,moderate,weight loss,2078,regular,none,none
+44,female,66,164,24.54,sedentary,weight loss,1651,paleo,none,high cholesterol
+43,female,64,173,21.38,sedentary,weight loss,1667,vegetarian,none,high cholesterol
+41,female,62,176,20.02,sedentary,maintenance,1666,regular,none,diabetes
+44,male,76,187,21.73,sedentary,maintenance,2105,regular,none,none
+29,female,57,168,20.2,moderate,weight loss,2123,regular,none,none
+25,female,58,161,22.38,active,weight loss,2371,regular,none,none
+27,male,77,179,24.03,sedentary,weight loss,2191,vegan,none,none
+25,female,68,173,22.72,moderate,weight loss,2331,regular,none,none
+24,female,74,171,25.31,sedentary,weight loss,1869,regular,none,none
+18,male,89,175,29.06,moderate,weight loss,3128,regular,none,none
+35,male,82,181,25.03,moderate,muscle gain,2878,regular,none,none
+41,male,72,155,29.97,sedentary,weight loss,1877,regular,none,none
+45,male,65,171,22.23,sedentary,maintenance,1829,regular,none,none
+18,male,74,186,21.39,sedentary,muscle gain,2244,regular,none,none
+25,male,69,181,21.06,sedentary,maintenance,2087,regular,shellfish,none
+19,male,67,167,24.02,sedentary,maintenance,2015,keto,none,none
+29,female,63,167,22.59,active,muscle gain,2453,regular,none,none
+34,female,60,150,26.67,sedentary,weight loss,1584,regular,nuts,high cholesterol
+21,male,75,175,24.49,moderate,weight loss,2811,regular,none,diabetes
+39,female,68,157,27.59,moderate,maintenance,2161,vegetarian,none,none
+44,female,67,150,29.78,sedentary,weight loss,1610,paleo,none,hypertension
+18,female,63,168,22.32,active,weight loss,2540,regular,none,none
+36,female,69,167,24.74,sedentary,weight loss,1737,regular,none,none
+37,male,78,176,25.18,sedentary,weight loss,2121,vegan,none,hypertension
+44,male,78,167,27.97,sedentary,maintenance,2022,vegan,gluten,none
+18,female,67,163,25.22,sedentary,weight loss,1793,regular,none,none
+26,female,60,160,23.44,sedentary,muscle gain,1663,regular,none,diabetes
+43,male,63,187,18.02,sedentary,muscle gain,1903,low-carb,none,none
+38,male,63,189,17.64,sedentary,weight loss,1948,regular,shellfish,none
+35,female,58,165,21.3,moderate,weight loss,2082,vegan,none,diabetes
+30,female,57,149,25.67,sedentary,weight loss,1568,regular,gluten,high cholesterol
+40,male,53,180,16.36,sedentary,weight loss,1722,regular,none,diabetes
+18,female,54,146,25.33,moderate,weight loss,2048,regular,none,none
+49,male,69,169,24.16,moderate,maintenance,2396,regular,none,none
+20,female,73,151,32.02,moderate,maintenance,2331,vegetarian,none,none
+51,female,71,183,21.2,active,weight loss,2502,regular,none,hypertension
+44,male,81,159,32.04,moderate,maintenance,2614,keto,none,none
+41,male,67,162,25.53,moderate,maintenance,2372,paleo,none,none
+31,male,71,162,27.05,sedentary,weight loss,1969,regular,none,none
+40,female,61,150,27.11,active,maintenance,2248,vegetarian,none,diabetes
+40,female,66,164,24.54,moderate,maintenance,2159,regular,none,none
+18,male,72,190,19.94,moderate,weight loss,2887,regular,none,none
+20,male,65,160,25.39,moderate,weight loss,2501,vegetarian,none,diabetes
+22,male,72,172,24.34,moderate,weight loss,2718,paleo,none,none
+51,female,60,171,20.52,moderate,weight loss,2033,regular,nuts,none
+40,male,64,161,24.69,active,maintenance,2573,regular,none,diabetes
+38,female,69,172,23.32,moderate,muscle gain,2254,regular,none,diabetes
+23,male,75,180,23.15,active,weight loss,3151,regular,none,none
+48,female,72,175,23.51,moderate,muscle gain,2244,low-carb,none,none
+18,female,67,181,20.45,active,maintenance,2674,regular,none,none
+26,male,77,174,25.43,sedentary,muscle gain,2169,regular,none,none
+46,male,55,174,18.17,sedentary,weight loss,1679,regular,none,none
+18,female,80,175,26.12,sedentary,weight loss,1982,regular,gluten,none
+29,male,82,180,25.31,moderate,muscle gain,2923,regular,none,none
+29,male,89,193,23.89,moderate,maintenance,3166,regular,none,none
+42,female,69,161,26.62,sedentary,maintenance,1683,regular,none,none
+42,female,56,165,20.57,sedentary,muscle gain,1554,regular,none,none
+48,female,56,181,17.09,moderate,weight loss,2043,regular,none,hypertension
+44,male,103,193,27.65,sedentary,maintenance,2574,vegan,none,diabetes
+34,male,80,173,26.73,sedentary,maintenance,2157,regular,none,none
+27,female,76,180,23.46,moderate,weight loss,2466,low-carb,nuts,none
+24,male,100,183,29.86,active,maintenance,3743,regular,none,none
+18,female,60,181,18.31,active,muscle gain,2562,regular,none,diabetes
+43,male,85,176,27.44,sedentary,maintenance,2193,regular,none,none
+43,male,59,174,19.49,moderate,weight loss,2278,regular,none,none
+40,male,82,183,24.49,sedentary,weight loss,2206,regular,shellfish,none
+23,male,72,178,22.72,moderate,weight loss,2754,regular,none,none
+18,male,82,187,23.45,sedentary,weight loss,2379,regular,shellfish,none
+37,male,92,151,40.35,sedentary,weight loss,2203,regular,none,none
+23,female,68,168,24.09,active,weight loss,2583,regular,none,high cholesterol
+47,male,75,183,22.4,moderate,weight loss,2642,keto,none,none
+41,male,63,184,18.61,moderate,muscle gain,2453,regular,lactose,none
+33,male,77,179,24.03,moderate,maintenance,2777,regular,none,none
+26,female,52,164,19.33,active,maintenance,2284,regular,none,none
+39,female,63,165,23.14,moderate,maintenance,2127,vegan,none,none
+26,female,64,159,25.32,moderate,muscle gain,2200,regular,nuts,none
+39,female,61,168,21.61,moderate,maintenance,2113,regular,none,none
+46,male,94,185,27.47,sedentary,weight loss,2369,regular,gluten,none
+32,female,75,169,26.26,moderate,weight loss,2365,vegetarian,none,none
+30,male,81,185,23.67,moderate,weight loss,2931,keto,none,none
+39,male,69,175,22.53,active,weight loss,2814,keto,gluten,none
+40,male,99,180,30.56,active,maintenance,3539,regular,none,diabetes
+36,male,83,181,25.34,sedentary,weight loss,2237,vegetarian,none,none
+23,female,66,155,27.47,active,maintenance,2481,regular,nuts,none
+32,female,63,168,22.32,moderate,weight loss,2189,regular,none,none
+31,female,79,180,24.38,sedentary,muscle gain,1922,keto,none,none
+50,male,71,173,23.72,moderate,maintenance,2458,regular,none,high cholesterol
+39,male,78,176,25.18,moderate,weight loss,2723,regular,none,none
+29,female,52,150,23.11,moderate,muscle gain,1965,regular,none,none
+38,male,73,147,33.78,moderate,weight loss,2412,regular,none,none
+26,male,91,180,28.09,sedentary,weight loss,2428,regular,gluten,none
+29,female,83,156,34.11,moderate,weight loss,2438,regular,none,diabetes
+48,male,67,175,21.88,active,weight loss,2679,regular,none,none
+28,male,82,173,27.4,sedentary,weight loss,2230,regular,none,none
+26,male,79,167,28.33,moderate,weight loss,2791,regular,none,none
+46,female,55,151,24.12,sedentary,weight loss,1470,low-carb,none,none
+39,male,80,188,22.63,moderate,weight loss,2853,regular,shellfish,high cholesterol
+41,female,59,156,24.24,sedentary,maintenance,1559,regular,lactose,high cholesterol
+41,male,93,175,30.37,sedentary,maintenance,2330,regular,none,diabetes
+37,female,85,175,27.76,active,weight loss,2787,regular,none,none
+26,female,68,161,26.23,sedentary,muscle gain,1755,regular,none,none
+26,male,110,167,39.44,sedentary,muscle gain,2659,vegan,none,none
+48,female,66,166,23.95,moderate,muscle gain,2115,regular,none,none
+37,male,56,158,22.43,moderate,weight loss,2150,keto,none,none
+32,female,82,179,25.59,sedentary,maintenance,1946,regular,none,none
+29,male,72,190,19.94,moderate,maintenance,2790,regular,none,diabetes
+43,male,89,190,24.65,active,weight loss,3361,regular,none,none
+18,male,86,175,28.08,active,weight loss,3412,keto,none,none
+42,male,85,160,33.2,sedentary,maintenance,2108,regular,none,high cholesterol
+35,male,54,169,18.91,moderate,weight loss,2207,low-carb,none,none
+42,female,62,179,19.35,active,weight loss,2404,regular,none,none
+43,male,80,169,28.01,active,weight loss,2979,regular,none,diabetes
+32,male,65,155,27.06,moderate,weight loss,2358,vegan,nuts,none
+30,female,57,156,23.42,moderate,maintenance,2058,regular,none,hypertension
+40,female,51,179,15.92,moderate,weight loss,2016,regular,none,none
+37,female,56,155,23.31,moderate,muscle gain,1992,regular,none,none
+35,male,72,177,22.98,active,maintenance,2939,vegetarian,none,none
+53,female,60,174,19.82,sedentary,maintenance,1574,regular,none,high cholesterol
+36,female,66,170,22.84,sedentary,maintenance,1714,vegetarian,none,none
+27,male,93,177,29.68,moderate,muscle gain,3147,regular,nuts,none
+29,female,56,164,20.82,active,maintenance,2325,regular,none,none
+40,male,77,173,25.73,moderate,maintenance,2671,regular,lactose,diabetes
+31,female,83,143,40.59,sedentary,muscle gain,1829,vegan,none,none
+36,male,89,152,38.52,sedentary,maintenance,2167,regular,none,none
+18,female,69,160,26.95,active,weight loss,2593,regular,shellfish,none
+18,female,58,173,19.38,sedentary,weight loss,1730,regular,none,none
+26,female,66,171,22.57,sedentary,muscle gain,1770,regular,none,diabetes
+18,female,66,156,27.12,sedentary,maintenance,1756,regular,none,none
+40,male,70,158,28.04,active,weight loss,2686,vegan,none,diabetes
+36,female,62,166,22.5,active,weight loss,2379,vegetarian,none,none
+40,male,83,161,32.02,moderate,muscle gain,2706,regular,none,none
+27,female,48,173,16.04,active,weight loss,2261,vegetarian,none,none
+31,female,84,163,31.62,moderate,maintenance,2472,regular,none,none
+36,female,69,172,23.32,moderate,maintenance,2267,regular,none,none
+48,female,68,161,26.23,active,weight loss,2359,vegetarian,lactose,diabetes
+30,male,65,178,20.52,moderate,weight loss,2547,regular,none,none
+23,female,48,160,18.75,sedentary,weight loss,1545,regular,none,diabetes
+34,male,95,184,28.06,moderate,weight loss,3179,regular,none,none
+26,female,77,165,28.28,moderate,weight loss,2415,regular,none,none
+39,male,67,173,22.39,active,muscle gain,2751,regular,none,none
+45,female,71,168,25.16,sedentary,maintenance,1716,vegetarian,none,none
+47,male,73,166,26.49,sedentary,weight loss,1915,vegan,none,none
+30,female,71,159,28.08,moderate,maintenance,2274,regular,none,none
+38,female,61,153,26.06,sedentary,muscle gain,1585,regular,none,none
+18,male,78,169,27.31,moderate,maintenance,2855,regular,none,none
+34,female,69,151,30.26,active,weight loss,2426,vegetarian,none,none
+33,female,51,177,16.28,sedentary,weight loss,1590,regular,none,none
+40,female,64,160,25.0,moderate,weight loss,2111,low-carb,none,none
+46,female,59,138,30.98,moderate,maintenance,1893,regular,none,hypertension
+41,female,51,166,18.51,sedentary,weight loss,1507,vegetarian,none,diabetes
+33,male,44,173,14.7,active,muscle gain,2278,regular,none,hypertension
+21,male,87,182,26.26,sedentary,maintenance,2410,regular,none,none
+24,male,85,166,30.85,moderate,muscle gain,2926,regular,none,none
+47,female,66,156,27.12,active,maintenance,2307,low-carb,none,none
+25,male,90,170,31.14,sedentary,weight loss,2362,regular,none,none
+40,male,84,167,30.12,moderate,weight loss,2771,regular,none,high cholesterol
+39,female,60,159,23.73,moderate,weight loss,2055,keto,none,none
+48,male,72,172,24.34,active,maintenance,2770,keto,shellfish,high cholesterol
+36,male,51,152,22.07,active,maintenance,2237,vegan,none,none
+29,female,68,161,26.23,moderate,maintenance,2247,vegan,none,hypertension
+39,male,80,172,27.04,moderate,weight loss,2734,keto,none,none
+38,male,67,162,25.53,moderate,muscle gain,2399,regular,none,none
+24,male,91,177,29.05,moderate,weight loss,3132,paleo,none,none
+34,male,66,162,25.15,moderate,maintenance,2413,regular,none,none
+29,male,68,167,24.38,moderate,maintenance,2536,regular,none,none
+40,female,60,161,23.15,sedentary,weight loss,1594,keto,none,hypertension
+41,male,85,172,28.73,sedentary,weight loss,2184,regular,none,none
+21,male,80,180,24.69,sedentary,weight loss,2286,keto,none,hypertension
+40,female,65,170,22.49,active,weight loss,2419,regular,none,hypertension
+45,female,64,157,25.96,sedentary,weight loss,1597,regular,none,none
+25,female,74,143,36.19,active,muscle gain,2530,regular,none,hypertension
+41,male,105,184,31.01,sedentary,muscle gain,2574,regular,none,none
+39,female,58,184,17.13,sedentary,weight loss,1662,vegan,none,none
+26,female,60,167,21.51,sedentary,weight loss,1689,regular,none,high cholesterol
+33,female,72,165,26.45,moderate,weight loss,2297,regular,none,none
+39,male,72,164,26.77,moderate,muscle gain,2509,vegan,shellfish,none
+33,female,67,157,27.18,active,weight loss,2433,regular,none,none
+40,female,64,164,23.8,moderate,weight loss,2130,regular,none,diabetes
+37,female,57,161,21.99,moderate,maintenance,2036,regular,none,none
+33,female,67,172,22.65,moderate,weight loss,2259,keto,none,none
+31,female,61,158,24.44,active,weight loss,2358,regular,none,hypertension
+40,male,83,174,27.41,sedentary,maintenance,2170,regular,none,hypertension
+34,female,67,185,19.58,sedentary,weight loss,1792,low-carb,none,hypertension
+40,female,72,159,28.48,sedentary,muscle gain,1719,regular,none,diabetes
+33,male,76,182,22.94,sedentary,weight loss,2151,low-carb,none,none
+33,female,60,175,19.59,moderate,maintenance,2173,regular,none,none
+47,female,76,178,23.99,sedentary,weight loss,1798,regular,none,none
+43,female,80,161,30.86,active,weight loss,2587,vegetarian,none,none
+27,female,63,167,22.59,active,weight loss,2468,regular,none,none
+29,male,75,161,28.93,sedentary,maintenance,2041,vegetarian,lactose,none
+35,female,57,164,21.19,active,weight loss,2296,regular,none,none
+43,female,64,155,26.64,moderate,maintenance,2067,regular,gluten,none
+46,male,80,178,25.25,moderate,maintenance,2717,regular,none,high cholesterol
+33,female,67,168,23.74,moderate,muscle gain,2239,regular,none,high cholesterol
+22,male,87,183,25.98,moderate,weight loss,3111,regular,none,none
+31,female,59,160,23.05,sedentary,muscle gain,1626,paleo,none,hypertension
+28,female,58,153,24.78,active,muscle gain,2306,regular,nuts,none
+28,female,58,152,25.1,sedentary,maintenance,1600,paleo,none,hypertension
+22,female,60,169,21.01,active,weight loss,2468,vegan,none,none
+35,male,68,178,21.46,moderate,maintenance,2565,regular,none,none
+50,male,84,170,29.07,sedentary,muscle gain,2095,regular,none,none
+18,female,61,166,22.14,moderate,weight loss,2244,regular,none,none
+24,female,62,165,22.77,sedentary,weight loss,1714,vegan,none,none
+23,female,55,150,24.44,moderate,weight loss,2048,regular,none,none
+41,female,60,169,21.01,active,weight loss,2326,regular,nuts,none
+35,female,64,167,22.95,moderate,weight loss,2178,regular,none,hypertension
+46,female,63,151,27.63,sedentary,weight loss,1559,vegetarian,none,none
+35,female,71,153,30.33,moderate,muscle gain,2211,regular,none,none
+38,female,66,157,26.78,active,weight loss,2380,vegetarian,none,none
+31,male,71,172,24.0,active,weight loss,2914,paleo,none,none
+25,male,75,170,25.95,moderate,weight loss,2739,paleo,none,none
+23,male,74,178,23.36,active,muscle gain,3111,regular,none,none
+45,male,81,171,27.7,moderate,weight loss,2695,vegetarian,none,diabetes
+34,female,62,185,18.12,active,maintenance,2496,regular,none,none
+44,male,78,156,32.05,sedentary,maintenance,1959,vegan,gluten,none
+41,male,72,166,26.13,moderate,maintenance,2506,regular,none,none
+39,male,68,179,21.22,moderate,weight loss,2537,regular,none,none
+18,male,85,175,27.76,sedentary,maintenance,2358,regular,none,none
+20,female,62,162,23.62,sedentary,weight loss,1723,regular,none,diabetes
+35,male,67,161,25.85,sedentary,muscle gain,1872,paleo,none,none
+45,female,70,164,26.03,sedentary,muscle gain,1690,regular,none,none
+33,female,79,164,29.37,sedentary,maintenance,1852,vegetarian,none,diabetes
+40,male,80,186,23.12,active,weight loss,3149,regular,none,diabetes
+28,male,76,176,24.54,active,weight loss,3092,regular,none,none
+41,male,91,185,26.59,active,muscle gain,3385,vegan,none,none
+36,male,85,183,25.38,moderate,maintenance,2946,regular,none,hypertension
+48,female,57,157,23.12,moderate,maintenance,1942,regular,none,none
+46,female,63,172,21.3,moderate,weight loss,2114,regular,none,none
+20,male,72,152,31.16,moderate,maintenance,2587,vegan,none,none
+25,female,70,170,24.22,sedentary,muscle gain,1816,regular,nuts,none
+30,male,75,161,28.93,moderate,muscle gain,2628,regular,none,none
+38,female,84,168,29.76,active,maintenance,2726,regular,none,none
+41,male,61,176,19.69,moderate,muscle gain,2352,vegan,none,hypertension
+27,male,76,172,25.69,active,weight loss,3068,keto,lactose,high cholesterol
+48,male,87,155,36.21,sedentary,weight loss,2070,regular,none,high cholesterol
+21,male,68,159,26.9,moderate,muscle gain,2547,regular,none,high cholesterol
+40,female,75,164,27.89,moderate,weight loss,2288,regular,none,hypertension
+30,male,81,181,24.72,sedentary,weight loss,2246,regular,none,none
+29,male,84,172,28.39,moderate,weight loss,2905,vegan,none,none
+40,female,67,151,29.38,sedentary,muscle gain,1634,regular,none,none
+25,female,63,178,19.88,sedentary,maintenance,1768,regular,none,high cholesterol
+22,female,60,157,24.34,moderate,maintenance,2160,regular,none,none
+20,male,74,169,25.91,active,weight loss,3066,regular,none,none
+34,female,61,153,26.06,active,maintenance,2309,regular,none,none
+29,female,64,151,28.07,active,maintenance,2383,keto,nuts,none
+18,male,78,179,24.34,moderate,maintenance,2930,regular,none,none
+43,female,57,158,22.83,active,weight loss,2204,vegetarian,shellfish,none
+29,female,51,152,22.07,moderate,weight loss,1960,regular,none,none
+20,male,71,154,29.94,moderate,weight loss,2581,regular,none,none
+25,male,67,170,23.18,sedentary,muscle gain,1992,regular,none,none
+22,male,76,172,25.69,active,weight loss,3117,vegetarian,none,none
+29,female,65,157,26.37,moderate,muscle gain,2185,keto,none,hypertension
+35,female,52,177,16.6,moderate,maintenance,2054,regular,none,none
+40,male,70,173,23.39,sedentary,weight loss,1955,regular,none,none
+46,male,66,177,21.07,active,muscle gain,2692,regular,none,none
+18,female,64,164,23.8,sedentary,weight loss,1763,regular,none,none
+25,female,71,175,23.18,sedentary,muscle gain,1846,low-carb,gluten,hypertension
+41,female,55,191,15.08,active,maintenance,2364,regular,none,none
+18,male,69,167,24.74,sedentary,muscle gain,2054,regular,shellfish,hypertension
+23,male,78,170,26.99,active,weight loss,3137,regular,gluten,none
+36,male,77,149,34.68,moderate,weight loss,2527,regular,none,none
+46,female,66,145,31.39,moderate,weight loss,2027,regular,lactose,hypertension
+38,female,67,174,22.13,sedentary,maintenance,1730,vegan,none,none
+37,female,66,177,21.07,sedentary,muscle gain,1735,regular,none,none
+28,female,60,173,20.05,moderate,maintenance,2197,regular,gluten,none
+47,male,69,176,22.28,active,weight loss,2744,keto,none,hypertension
+33,male,68,170,23.53,moderate,weight loss,2523,regular,none,none
+20,male,63,167,22.59,active,weight loss,2795,regular,lactose,none
+54,male,80,163,30.11,sedentary,weight loss,1963,keto,none,high cholesterol
+34,female,72,164,26.77,sedentary,maintenance,1769,regular,none,none
+47,male,76,172,25.69,moderate,maintenance,2581,regular,none,none
+53,female,51,166,18.51,active,weight loss,2077,regular,none,none
+38,female,62,144,29.9,moderate,weight loss,2019,regular,none,none
+18,male,77,177,24.58,moderate,muscle gain,2894,vegetarian,none,none
+48,male,83,178,26.2,sedentary,maintenance,2138,regular,none,none
+46,female,55,167,19.72,active,weight loss,2198,vegan,none,none
+38,male,66,176,21.31,moderate,maintenance,2482,regular,none,none
+23,male,84,153,35.88,active,maintenance,3135,paleo,none,none
+44,female,70,171,23.94,moderate,weight loss,2223,vegan,none,none
+48,female,69,175,22.53,moderate,weight loss,2201,regular,none,none
+30,female,73,167,26.18,active,maintenance,2605,regular,none,none
+36,female,63,184,18.61,moderate,weight loss,2239,regular,none,none
+30,female,72,170,24.91,moderate,weight loss,2341,vegan,nuts,diabetes
+33,female,65,158,26.04,active,muscle gain,2407,paleo,none,high cholesterol
+33,male,72,175,23.51,active,maintenance,2942,vegetarian,none,none
+36,male,70,172,23.66,active,muscle gain,2841,vegetarian,nuts,hypertension
+48,female,59,161,22.76,sedentary,weight loss,1541,regular,nuts,none
+57,female,59,183,17.62,sedentary,maintenance,1576,regular,none,high cholesterol
+42,female,68,162,25.91,active,maintenance,2409,regular,none,none
+36,female,69,161,26.62,moderate,weight loss,2214,regular,none,none
+46,female,52,160,20.31,moderate,weight loss,1899,regular,none,none
+37,male,90,180,27.78,moderate,weight loss,3019,regular,none,none
+46,male,82,171,28.04,moderate,weight loss,2707,low-carb,none,none
+46,female,61,159,24.13,sedentary,weight loss,1566,paleo,none,none
+18,male,76,177,24.26,active,muscle gain,3198,regular,none,none
+54,female,69,181,21.06,sedentary,maintenance,1695,regular,none,diabetes
+40,male,76,180,23.46,active,muscle gain,3007,paleo,none,none
+24,male,93,179,29.03,moderate,maintenance,3188,regular,none,none
+37,male,80,181,24.42,active,muscle gain,3137,paleo,none,none
+45,male,86,166,31.21,sedentary,weight loss,2138,regular,none,none
+24,female,81,164,30.12,moderate,maintenance,2481,regular,none,none
+56,male,68,157,27.59,moderate,weight loss,2224,regular,none,none
+22,female,63,160,24.61,moderate,muscle gain,2217,regular,none,none
+47,male,67,160,26.17,sedentary,maintenance,1784,vegan,none,none
+42,female,67,167,24.02,moderate,maintenance,2174,keto,none,none
+41,female,60,163,22.58,moderate,weight loss,2061,regular,none,diabetes
+37,female,72,178,22.72,moderate,weight loss,2332,vegan,nuts,none
+26,male,68,182,20.53,sedentary,muscle gain,2070,regular,none,diabetes
+32,male,86,170,29.76,sedentary,weight loss,2250,regular,none,hypertension
+46,male,78,162,29.72,active,weight loss,2846,regular,none,none
+37,female,70,154,29.52,moderate,weight loss,2188,regular,none,none
+52,female,63,157,25.56,moderate,maintenance,2002,keto,none,hypertension
+37,female,57,166,20.69,sedentary,weight loss,1594,vegan,none,none
+38,male,55,175,17.96,sedentary,maintenance,1739,regular,none,none
+39,male,77,184,22.74,active,weight loss,3073,regular,none,none
+32,female,73,162,27.82,moderate,maintenance,2303,vegan,nuts,none
+23,male,72,169,25.21,sedentary,maintenance,2080,regular,none,none
+40,female,59,183,17.62,moderate,maintenance,2150,regular,none,none
+31,male,81,174,26.75,active,weight loss,3161,regular,none,none
+29,female,66,165,24.24,moderate,weight loss,2237,regular,none,none
+40,female,58,169,20.31,sedentary,maintenance,1601,keto,none,none
+40,female,63,169,22.06,sedentary,maintenance,1657,regular,none,none
+35,male,84,169,29.41,moderate,maintenance,2830,vegan,none,none
+34,male,68,177,21.71,sedentary,maintenance,1987,regular,none,none
+49,female,60,156,24.65,sedentary,weight loss,1528,regular,none,hypertension
+41,female,71,167,25.46,sedentary,weight loss,1733,regular,gluten,none
+34,male,93,177,29.68,moderate,weight loss,3086,regular,none,none
+39,female,79,164,29.37,moderate,muscle gain,2352,regular,none,none
+60,female,62,176,20.02,active,weight loss,2253,regular,none,none
+30,female,62,168,21.97,sedentary,weight loss,1694,regular,gluten,none
+32,male,49,177,15.64,sedentary,maintenance,1695,regular,lactose,none
+28,male,78,193,20.94,moderate,muscle gain,2946,regular,none,diabetes
+25,male,83,190,22.99,sedentary,weight loss,2364,regular,none,none
+27,male,80,174,26.42,sedentary,weight loss,2210,regular,none,none
+46,male,82,178,25.88,active,muscle gain,3070,keto,none,none
+25,female,67,159,26.5,sedentary,maintenance,1742,regular,none,high cholesterol
+37,male,68,187,19.45,sedentary,muscle gain,2024,regular,nuts,none
+43,female,56,167,20.08,sedentary,muscle gain,1556,regular,none,none
+39,female,61,187,17.44,moderate,weight loss,2204,regular,none,diabetes
+33,male,75,183,22.4,sedentary,maintenance,2141,regular,none,none
+48,female,60,175,19.59,moderate,muscle gain,2072,vegetarian,none,none
+44,female,55,183,16.42,sedentary,muscle gain,1599,regular,none,none
+50,male,71,184,20.97,sedentary,weight loss,1966,regular,none,diabetes
+41,male,87,182,26.26,moderate,muscle gain,2937,keto,none,none
+34,male,82,189,22.96,moderate,maintenance,2946,vegan,none,none
+35,female,56,158,22.43,sedentary,maintenance,1564,regular,none,none
+41,female,63,175,20.57,sedentary,weight loss,1674,paleo,none,diabetes
+27,male,76,194,20.19,sedentary,maintenance,2261,regular,none,none
+48,female,79,176,25.5,moderate,muscle gain,2349,regular,gluten,none
+44,female,55,159,21.76,active,muscle gain,2170,regular,none,none
+43,female,58,166,21.05,moderate,weight loss,2034,regular,none,diabetes
+40,female,64,177,20.43,sedentary,weight loss,1697,regular,none,none
+46,female,61,157,24.75,moderate,weight loss,2013,regular,none,none
+47,female,79,150,35.11,moderate,muscle gain,2231,regular,none,none
+43,male,79,190,21.88,sedentary,weight loss,2177,keto,none,none
+24,female,62,154,26.14,sedentary,weight loss,1673,regular,gluten,none
+45,male,65,166,23.59,sedentary,muscle gain,1800,regular,none,none
+27,male,80,178,25.25,sedentary,maintenance,2233,regular,none,none
+47,male,77,171,26.33,sedentary,maintenance,2008,vegan,none,none
+43,female,68,171,23.26,active,weight loss,2449,vegan,none,high cholesterol
+30,male,79,167,28.33,active,weight loss,3067,vegan,none,none
+38,female,63,162,24.01,moderate,weight loss,2120,vegetarian,none,none
+32,female,64,171,21.89,moderate,weight loss,2217,regular,none,none
+34,female,64,158,25.64,moderate,weight loss,2142,paleo,none,high cholesterol
+39,female,68,160,26.56,active,weight loss,2421,vegan,none,none
+18,female,85,155,35.38,active,muscle gain,2822,paleo,lactose,none
+34,male,63,172,21.3,moderate,weight loss,2425,vegan,none,none
+28,female,53,161,20.45,sedentary,maintenance,1578,regular,none,none
+35,female,57,140,29.08,active,muscle gain,2168,regular,none,hypertension
+31,female,60,170,20.76,moderate,maintenance,2162,regular,none,none
+39,male,76,164,28.26,moderate,weight loss,2592,regular,none,none
+41,male,84,139,43.48,sedentary,muscle gain,1978,regular,none,none
+52,female,72,178,22.72,moderate,weight loss,2231,regular,shellfish,none
+42,male,79,184,23.33,moderate,weight loss,2777,vegetarian,none,none
+24,male,76,171,25.99,moderate,weight loss,2776,regular,none,none
+30,female,58,187,16.59,sedentary,weight loss,1720,regular,none,none
+44,female,72,173,24.06,moderate,muscle gain,2261,vegan,none,none
+39,female,64,168,22.68,moderate,weight loss,2156,regular,shellfish,high cholesterol
+53,female,49,154,20.66,moderate,weight loss,1780,keto,none,none
+33,male,72,177,22.98,sedentary,maintenance,2058,regular,none,high cholesterol
+39,female,67,158,26.84,active,weight loss,2394,regular,none,none
+18,female,60,167,21.51,active,weight loss,2487,keto,none,none
+37,male,78,161,30.09,sedentary,weight loss,2035,regular,none,none
+32,male,69,174,22.79,moderate,maintenance,2582,keto,none,none
+27,female,66,167,23.67,moderate,muscle gain,2260,vegan,none,hypertension
+34,male,83,165,30.49,moderate,weight loss,2789,paleo,none,none
+46,male,62,190,17.17,moderate,maintenance,2433,regular,none,none
+27,female,67,167,24.02,sedentary,muscle gain,1761,regular,none,none
+32,male,72,198,18.37,sedentary,weight loss,2186,keto,none,high cholesterol
+40,male,66,170,22.84,active,maintenance,2693,regular,lactose,diabetes
+23,male,68,171,23.26,sedentary,muscle gain,2027,regular,none,hypertension
+32,female,61,167,21.87,moderate,weight loss,2155,keto,none,high cholesterol
+48,female,57,161,21.99,sedentary,muscle gain,1519,regular,lactose,none
+42,male,86,195,22.62,sedentary,muscle gain,2325,regular,none,none
+22,male,74,174,24.44,active,muscle gain,3088,low-carb,gluten,none
+34,male,83,189,23.24,sedentary,muscle gain,2297,regular,none,none
+36,female,62,160,24.22,moderate,maintenance,2109,regular,none,diabetes
+28,female,44,144,21.22,sedentary,weight loss,1415,regular,none,none
+39,male,86,176,27.76,moderate,muscle gain,2889,regular,none,none
+25,male,67,193,17.99,sedentary,maintenance,2124,low-carb,none,none
+39,male,93,169,32.56,moderate,maintenance,2982,regular,none,hypertension
+35,male,73,184,21.56,active,weight loss,3020,vegetarian,none,none
+33,female,72,172,24.34,active,maintenance,2593,regular,gluten,hypertension
+23,male,71,163,26.72,moderate,weight loss,2621,regular,lactose,hypertension
+35,male,71,178,22.41,active,maintenance,2924,regular,none,none
+33,male,68,193,18.26,moderate,muscle gain,2694,regular,none,none
+25,female,49,167,17.57,active,muscle gain,2259,keto,none,none
+35,male,77,191,21.11,moderate,weight loss,2849,regular,none,none
+35,male,56,184,16.54,sedentary,weight loss,1827,vegan,none,none
+21,male,77,169,26.96,moderate,maintenance,2808,regular,none,none
+48,female,71,161,27.39,sedentary,maintenance,1674,regular,none,diabetes
+18,male,64,174,21.14,moderate,weight loss,2602,regular,none,none
+32,male,103,175,33.63,sedentary,weight loss,2552,regular,none,none
+44,male,78,171,26.67,sedentary,maintenance,2045,vegetarian,none,none
+54,female,70,183,20.9,sedentary,muscle gain,1714,vegetarian,gluten,none
+32,male,80,157,32.46,sedentary,maintenance,2078,regular,none,diabetes
+30,male,83,170,28.72,moderate,weight loss,2861,regular,none,high cholesterol
+19,female,47,177,15.0,active,weight loss,2326,regular,none,diabetes
+27,female,59,161,22.76,sedentary,weight loss,1650,regular,none,high cholesterol
+39,female,73,171,24.96,sedentary,weight loss,1780,regular,none,none
+46,female,69,156,28.35,active,muscle gain,2363,regular,none,none
+37,female,75,153,32.04,sedentary,maintenance,1746,low-carb,none,none
+39,male,50,173,16.71,sedentary,maintenance,1640,regular,none,none
+25,male,74,162,28.2,active,muscle gain,2959,regular,none,none
+27,male,65,177,20.75,sedentary,weight loss,1986,vegan,none,none
+39,female,59,171,20.18,active,maintenance,2336,paleo,none,hypertension
+33,female,59,158,23.63,sedentary,weight loss,1608,regular,nuts,none
+39,female,58,152,25.1,moderate,maintenance,1993,vegetarian,none,none
+30,female,54,154,22.77,sedentary,maintenance,1553,regular,none,high cholesterol
+33,female,65,173,21.72,moderate,weight loss,2235,vegan,nuts,none
+22,female,70,154,29.52,sedentary,maintenance,1772,paleo,none,none
+23,male,88,163,33.12,sedentary,weight loss,2303,vegetarian,none,diabetes
+28,female,64,178,20.2,sedentary,muscle gain,1764,regular,none,none
+26,female,70,183,20.9,moderate,weight loss,2401,regular,nuts,none
+30,female,69,157,27.99,moderate,weight loss,2235,regular,none,high cholesterol
+26,female,74,155,30.8,moderate,weight loss,2324,vegetarian,none,none
+22,male,81,192,21.97,sedentary,weight loss,2364,regular,none,none
+43,female,63,152,27.27,active,muscle gain,2268,regular,none,diabetes
+21,male,64,181,19.54,moderate,weight loss,2628,regular,none,none
+29,male,71,162,27.05,sedentary,weight loss,1983,regular,none,none
+27,female,71,177,22.66,moderate,weight loss,2380,regular,none,diabetes
+42,female,73,138,38.33,moderate,weight loss,2121,vegan,none,none
+41,male,85,174,28.08,moderate,maintenance,2836,vegan,none,none
+30,female,65,157,26.37,active,maintenance,2424,paleo,none,none
+34,female,67,176,21.63,sedentary,maintenance,1758,vegetarian,none,hypertension
+38,female,50,168,17.72,sedentary,muscle gain,1519,regular,none,none
+26,male,74,181,22.59,sedentary,weight loss,2161,regular,nuts,diabetes
+34,male,91,188,25.75,active,weight loss,3479,regular,none,diabetes
+18,male,60,185,17.53,sedentary,maintenance,2013,regular,none,none
+26,female,72,157,29.21,sedentary,weight loss,1785,regular,none,none
+38,female,61,160,23.83,active,weight loss,2316,regular,gluten,none
+49,female,70,158,28.04,moderate,maintenance,2127,regular,none,diabetes
+31,male,82,173,27.4,moderate,weight loss,2854,regular,none,hypertension
+18,male,80,156,32.87,moderate,muscle gain,2800,regular,none,high cholesterol
+48,female,56,165,20.57,active,muscle gain,2189,regular,lactose,diabetes
+21,male,67,157,27.18,sedentary,maintenance,1944,regular,none,none
+18,female,70,155,29.14,sedentary,muscle gain,1797,vegetarian,none,none
+24,male,70,180,21.6,moderate,weight loss,2718,regular,none,none
+22,female,51,158,20.43,active,maintenance,2266,vegetarian,none,none
+27,male,100,172,33.8,active,muscle gain,3623,regular,none,none
+43,female,62,166,22.5,active,weight loss,2327,keto,none,none
+65,female,68,167,24.38,moderate,weight loss,2034,keto,gluten,none
+34,female,56,156,23.01,active,muscle gain,2245,regular,none,none
+35,female,73,158,29.24,active,weight loss,2519,regular,none,none
+38,female,65,151,28.51,sedentary,weight loss,1622,regular,lactose,none
+38,male,100,187,28.6,sedentary,muscle gain,2532,vegan,none,none
+36,male,84,176,27.12,sedentary,weight loss,2225,vegetarian,none,high cholesterol
+22,female,51,145,24.26,moderate,weight loss,1973,regular,none,none
+41,female,68,161,26.23,active,muscle gain,2411,regular,none,none
+28,male,89,180,27.47,sedentary,weight loss,2383,regular,none,none
+40,female,59,156,24.24,moderate,muscle gain,2020,regular,gluten,diabetes
+43,male,85,178,26.83,sedentary,muscle gain,2205,regular,none,none
+22,male,86,163,32.37,sedentary,weight loss,2277,regular,none,none
+33,male,70,171,23.94,moderate,weight loss,2572,keto,none,none
+42,female,68,176,21.95,sedentary,maintenance,1728,regular,lactose,none
+37,male,71,179,22.16,sedentary,weight loss,2026,vegan,gluten,hypertension
+18,male,77,178,24.3,moderate,muscle gain,2902,regular,none,high cholesterol
+21,female,64,162,24.39,moderate,weight loss,2248,regular,none,none
+28,female,77,173,25.73,active,weight loss,2716,regular,none,none
+39,male,82,190,22.71,active,weight loss,3238,regular,none,none
+43,male,81,185,23.67,active,weight loss,3135,regular,none,none
+29,male,85,167,30.48,moderate,muscle gain,2889,regular,none,none
+18,female,61,159,24.13,moderate,maintenance,2211,regular,shellfish,none
+37,male,74,181,22.59,sedentary,weight loss,2086,vegan,none,none
+18,male,67,184,19.79,active,muscle gain,3048,regular,none,diabetes
+18,male,89,172,30.08,sedentary,weight loss,2405,regular,none,none
+39,male,57,175,18.61,active,weight loss,2536,regular,none,none
+35,male,61,171,20.86,moderate,maintenance,2368,regular,nuts,none
+35,male,90,179,28.09,active,muscle gain,3371,regular,none,none
+41,male,90,181,27.47,sedentary,weight loss,2316,paleo,none,none
+51,female,65,157,26.37,sedentary,weight loss,1577,regular,none,high cholesterol
+33,male,89,170,30.8,active,weight loss,3293,regular,none,hypertension
+48,male,63,163,23.71,sedentary,weight loss,1731,regular,none,none
+32,female,55,169,19.26,active,weight loss,2314,vegan,none,none
+21,female,69,190,19.11,sedentary,muscle gain,1900,regular,gluten,high cholesterol
+45,male,77,182,23.25,active,muscle gain,2998,regular,none,hypertension
+43,male,68,182,20.53,sedentary,weight loss,1954,regular,none,none
+33,female,80,160,31.25,sedentary,muscle gain,1848,regular,none,hypertension
+18,female,63,172,21.3,sedentary,maintenance,1782,regular,none,none
+46,female,77,172,26.03,sedentary,maintenance,1792,regular,none,none
+26,male,82,164,30.49,sedentary,weight loss,2192,vegan,none,high cholesterol
+35,female,56,161,21.6,sedentary,maintenance,1575,regular,none,none
+49,male,77,155,32.05,active,muscle gain,2735,low-carb,none,none
+50,female,62,154,26.14,moderate,weight loss,1986,vegan,none,none
+26,female,50,146,23.46,moderate,weight loss,1937,regular,none,none
+38,female,70,163,26.35,moderate,weight loss,2225,keto,shellfish,none
+51,male,74,184,21.86,sedentary,weight loss,2008,regular,none,none
+31,male,96,182,28.98,moderate,weight loss,3211,regular,none,none
+36,female,62,164,23.05,moderate,weight loss,2128,vegan,none,none
+48,male,68,192,18.45,moderate,weight loss,2555,vegetarian,none,none
+29,male,86,162,32.77,sedentary,weight loss,2224,regular,none,high cholesterol
+36,male,81,177,25.85,active,maintenance,3137,regular,none,none
+50,female,70,160,27.34,sedentary,maintenance,1649,regular,none,none
+23,female,78,159,30.85,moderate,weight loss,2421,vegetarian,none,none
+41,male,86,181,26.25,sedentary,maintenance,2252,vegan,gluten,none
+27,female,64,145,30.44,sedentary,weight loss,1646,regular,none,none
+37,male,85,170,29.41,active,weight loss,3162,regular,none,hypertension
+50,female,52,169,18.21,active,weight loss,2131,paleo,none,none
+26,female,45,149,20.27,active,weight loss,2092,regular,gluten,none
+30,female,61,160,23.83,sedentary,muscle gain,1653,regular,none,none
+40,female,67,182,20.23,sedentary,weight loss,1749,low-carb,none,diabetes
+36,male,79,176,25.5,active,weight loss,3083,vegetarian,none,none
+39,male,73,173,24.39,active,weight loss,2890,vegetarian,none,diabetes
+19,female,88,162,33.53,moderate,weight loss,2605,regular,none,none
+39,female,70,172,23.66,sedentary,maintenance,1751,keto,nuts,high cholesterol
+35,female,70,138,36.76,active,weight loss,2365,regular,none,hypertension
+40,male,76,185,22.21,sedentary,maintenance,2121,regular,shellfish,none
+37,male,76,181,23.2,moderate,maintenance,2736,regular,none,none
+45,female,60,170,20.76,sedentary,weight loss,1601,regular,none,none
+44,male,71,158,28.44,moderate,weight loss,2399,keto,none,none
+33,female,66,165,24.24,moderate,weight loss,2211,regular,none,none
+21,female,57,153,24.35,sedentary,maintenance,1629,vegan,none,none
+20,male,76,184,22.45,moderate,weight loss,2908,regular,none,none
+38,male,87,160,33.98,sedentary,muscle gain,2167,vegetarian,none,none
+38,female,68,157,27.59,moderate,weight loss,2167,vegetarian,none,none
+32,female,74,160,28.91,moderate,weight loss,2308,vegetarian,none,none
+29,female,59,158,23.63,moderate,muscle gain,2103,regular,gluten,none
+43,female,79,174,26.09,sedentary,muscle gain,1837,regular,none,diabetes
+33,male,84,170,29.07,sedentary,maintenance,2211,regular,lactose,none
+43,female,70,156,28.76,active,maintenance,2401,regular,none,high cholesterol
+23,male,73,159,28.88,sedentary,muscle gain,2039,regular,none,none
+30,female,70,179,21.85,active,maintenance,2621,regular,none,hypertension
+37,male,77,171,26.33,sedentary,maintenance,2077,regular,none,none
+36,female,51,154,21.5,active,weight loss,2140,keto,none,none
+41,male,77,169,26.96,active,weight loss,2929,regular,none,none
+29,male,72,175,23.51,active,muscle gain,2981,regular,none,high cholesterol
+25,male,87,182,26.26,active,muscle gain,3425,vegetarian,none,none
+25,male,92,187,26.31,moderate,weight loss,3218,vegan,lactose,none
+45,male,52,189,14.56,moderate,weight loss,2227,vegan,none,high cholesterol
+35,male,76,160,29.69,moderate,weight loss,2597,regular,gluten,none
+46,female,55,180,16.98,sedentary,weight loss,1578,regular,shellfish,none
+50,female,70,159,27.69,sedentary,maintenance,1645,vegan,none,none
+34,male,81,162,30.86,active,muscle gain,3032,regular,none,none
+18,female,59,170,20.42,moderate,muscle gain,2235,paleo,none,hypertension
+43,female,60,175,19.59,sedentary,muscle gain,1630,regular,none,none
+27,female,59,178,18.62,active,weight loss,2463,regular,none,none
+33,male,57,175,18.61,sedentary,maintenance,1805,regular,none,none
+29,male,80,170,27.68,active,weight loss,3125,vegan,none,none
+60,male,73,170,25.26,moderate,weight loss,2389,regular,none,none
+47,female,58,174,19.16,sedentary,muscle gain,1583,regular,none,none
+28,female,63,184,18.61,sedentary,weight loss,1775,regular,none,none
+25,female,72,166,26.13,sedentary,muscle gain,1823,regular,none,none
+25,female,66,160,25.78,sedentary,weight loss,1734,regular,none,none
+41,male,58,172,19.61,sedentary,maintenance,1750,regular,none,none
+64,male,65,180,20.06,sedentary,weight loss,1752,vegan,none,none
+31,male,92,167,32.99,sedentary,weight loss,2336,regular,none,hypertension
+18,male,78,202,19.12,moderate,weight loss,3101,regular,none,none
+38,female,74,158,29.64,sedentary,weight loss,1748,regular,none,hypertension
+30,female,65,141,32.69,moderate,muscle gain,2101,vegan,none,none
+18,male,82,177,26.17,sedentary,muscle gain,2321,regular,none,none
+32,female,66,172,22.31,sedentary,muscle gain,1743,vegetarian,none,hypertension
+45,male,77,173,25.73,sedentary,maintenance,2034,regular,none,none
+51,female,58,150,25.78,sedentary,weight loss,1473,low-carb,none,diabetes
+35,male,94,186,27.17,moderate,maintenance,3164,regular,none,high cholesterol
+41,female,61,153,26.06,active,maintenance,2257,regular,none,none
+31,female,77,172,26.03,moderate,maintenance,2415,vegan,none,none
+23,female,59,176,19.05,moderate,muscle gain,2230,vegetarian,none,none
+31,male,68,170,23.53,moderate,maintenance,2541,regular,none,none
+23,female,79,160,30.86,sedentary,maintenance,1889,low-carb,none,none
+25,female,58,163,21.83,sedentary,maintenance,1657,vegan,none,none
+40,female,55,166,19.96,moderate,muscle gain,2011,regular,lactose,none
+27,male,70,183,20.9,active,maintenance,3021,regular,none,none
+18,male,71,155,29.55,sedentary,weight loss,2017,regular,none,none
+30,female,62,189,17.36,active,maintenance,2547,vegan,none,hypertension
+45,female,51,175,16.65,active,weight loss,2185,regular,none,high cholesterol
+28,female,60,170,20.76,sedentary,weight loss,1689,regular,none,hypertension
+37,male,73,171,24.96,active,weight loss,2893,vegan,none,none
+45,male,85,172,28.73,sedentary,weight loss,2156,regular,none,none
+41,male,80,167,28.69,moderate,weight loss,2680,regular,none,none
+28,female,67,167,24.02,sedentary,maintenance,1756,regular,none,high cholesterol
+48,female,68,171,23.26,active,maintenance,2412,regular,none,none
+54,female,69,166,25.04,sedentary,maintenance,1639,regular,none,none
+43,female,66,173,22.05,moderate,maintenance,2182,vegan,none,hypertension
+38,male,84,176,27.12,moderate,muscle gain,2856,vegetarian,none,none
+46,male,91,171,31.12,moderate,weight loss,2894,regular,none,none
+36,male,78,192,21.16,moderate,weight loss,2868,keto,none,none
+45,male,58,171,19.84,sedentary,weight loss,1717,keto,none,none
+46,male,81,189,22.68,moderate,weight loss,2820,regular,none,none
+24,male,74,166,26.85,active,weight loss,3002,regular,none,none
+23,female,54,149,24.32,active,weight loss,2258,regular,none,none
+29,female,63,161,24.3,moderate,maintenance,2175,regular,none,none
+29,male,63,179,19.66,active,weight loss,2806,vegetarian,none,none
+23,male,67,186,19.37,sedentary,weight loss,2098,regular,none,none
+33,female,56,181,17.09,moderate,muscle gain,2144,regular,none,none
+40,female,65,166,23.59,sedentary,weight loss,1668,regular,none,none
+21,male,92,173,30.74,sedentary,weight loss,2438,vegetarian,none,none
+25,male,81,180,25.0,sedentary,weight loss,2274,regular,none,none
+26,female,65,155,27.06,sedentary,maintenance,1700,vegetarian,lactose,diabetes
+45,female,49,161,18.9,moderate,maintenance,1867,regular,none,none
+42,female,57,161,21.99,moderate,weight loss,2002,regular,none,diabetes
+32,female,65,174,21.47,sedentary,weight loss,1739,regular,none,none
+26,female,67,170,23.18,active,weight loss,2555,regular,none,none
+34,male,88,183,26.28,moderate,muscle gain,3026,regular,none,none
+28,male,73,185,21.33,active,maintenance,3097,vegetarian,none,none
+21,female,55,162,20.96,sedentary,weight loss,1641,vegetarian,none,none
+25,male,82,192,22.24,moderate,weight loss,3048,regular,none,none
+45,female,55,170,19.03,sedentary,weight loss,1546,regular,none,none
+18,male,69,164,25.65,sedentary,maintenance,2037,regular,nuts,none
+54,female,62,154,26.14,moderate,weight loss,1959,regular,none,none
+41,female,63,174,20.81,active,weight loss,2401,regular,none,none
+35,male,68,183,20.31,sedentary,maintenance,2015,regular,none,diabetes
+30,female,59,170,20.42,moderate,maintenance,2154,vegan,none,hypertension
+26,male,86,173,28.73,sedentary,maintenance,2308,regular,none,none
+18,male,86,180,26.54,moderate,muscle gain,3103,keto,gluten,none
+29,female,61,173,20.38,moderate,weight loss,2204,vegetarian,none,high cholesterol
+22,female,56,184,16.54,sedentary,maintenance,1728,regular,none,none
+58,female,67,160,26.17,moderate,maintenance,2033,regular,none,diabetes
+31,male,89,158,35.65,moderate,weight loss,2888,vegan,none,none
+39,male,70,177,22.34,active,maintenance,2853,vegetarian,none,none
+36,female,67,149,30.18,moderate,maintenance,2128,keto,none,none
+28,female,57,164,21.19,moderate,weight loss,2110,vegetarian,none,diabetes
+33,male,95,149,42.79,active,weight loss,3258,regular,lactose,none
+47,female,57,170,19.72,moderate,maintenance,2012,regular,lactose,none
+36,male,82,181,25.03,active,weight loss,3193,regular,none,none
+38,female,63,165,23.14,moderate,weight loss,2134,regular,none,none
+34,male,75,183,22.4,active,muscle gain,3068,regular,none,none
+30,male,75,176,24.21,sedentary,muscle gain,2121,vegan,none,high cholesterol
+33,female,66,161,25.46,sedentary,maintenance,1697,low-carb,none,diabetes
+35,male,82,185,23.96,active,muscle gain,3236,regular,none,none
+31,female,57,167,20.44,moderate,muscle gain,2105,regular,none,hypertension
+33,female,63,160,24.61,active,muscle gain,2386,regular,none,hypertension
+37,male,97,171,33.17,moderate,maintenance,3098,vegan,none,none
+49,female,66,174,21.8,sedentary,maintenance,1662,regular,none,hypertension
+27,female,62,175,20.24,sedentary,maintenance,1735,regular,none,none
+35,female,64,145,30.44,sedentary,weight loss,1604,regular,nuts,none
+52,female,62,172,20.96,sedentary,weight loss,1594,regular,none,hypertension
+30,male,98,176,31.64,moderate,weight loss,3217,vegan,shellfish,hypertension
+34,male,86,184,25.4,active,maintenance,3330,vegan,none,none
+22,male,71,181,21.67,active,muscle gain,3076,regular,lactose,none
+34,female,73,167,26.18,sedentary,weight loss,1791,low-carb,none,none
+36,female,70,152,30.3,sedentary,maintenance,1692,regular,none,none
+45,male,72,163,27.1,moderate,weight loss,2449,regular,none,none
+25,male,75,175,24.49,sedentary,maintenance,2149,regular,none,none
+51,male,81,176,26.15,sedentary,maintenance,2074,regular,none,none
+39,male,72,172,24.34,sedentary,weight loss,1988,vegan,none,none
+25,male,81,168,28.7,active,muscle gain,3170,regular,none,none
+18,female,62,163,23.34,active,maintenance,2498,vegan,none,none
+26,female,70,170,24.22,moderate,weight loss,2339,paleo,none,none
+24,female,74,159,29.27,moderate,muscle gain,2357,vegan,none,none
+52,female,54,161,20.83,active,maintenance,2105,regular,none,diabetes
+36,female,58,170,20.07,moderate,maintenance,2100,vegan,gluten,none
+45,female,65,139,33.64,sedentary,maintenance,1541,regular,none,none
+35,female,70,161,27.01,sedentary,weight loss,1731,regular,none,none
+23,male,71,166,25.77,sedentary,maintenance,2047,regular,none,none
+29,female,70,169,24.51,moderate,muscle gain,2314,regular,none,diabetes
+19,female,67,154,28.25,sedentary,weight loss,1754,regular,nuts,none
+42,female,63,161,24.3,active,weight loss,2324,vegan,gluten,diabetes
+24,male,68,176,21.95,moderate,muscle gain,2647,regular,none,none
+35,female,65,140,33.16,moderate,weight loss,2063,regular,none,none
+39,female,75,150,33.33,sedentary,weight loss,1724,keto,none,none
+42,female,59,164,21.94,moderate,muscle gain,2045,vegan,none,none
+22,female,59,183,17.62,sedentary,weight loss,1758,regular,none,high cholesterol
+18,female,77,173,25.73,moderate,maintenance,2507,regular,none,hypertension
+31,male,86,183,25.68,sedentary,maintenance,2331,regular,lactose,diabetes
+28,male,68,202,16.67,sedentary,maintenance,2172,regular,none,none
+22,female,71,170,24.57,moderate,maintenance,2380,regular,none,hypertension
+48,male,79,177,25.22,moderate,muscle gain,2672,regular,none,high cholesterol
+52,female,71,162,27.05,moderate,maintenance,2140,regular,shellfish,none
+45,female,64,180,19.75,sedentary,maintenance,1683,regular,none,none
+54,male,61,186,17.63,sedentary,muscle gain,1790,regular,none,none
+46,male,78,171,26.67,sedentary,muscle gain,2031,regular,none,none
+27,female,66,185,19.28,moderate,maintenance,2347,regular,none,diabetes
+28,female,81,164,30.12,active,weight loss,2731,regular,lactose,none
+34,female,59,162,22.48,sedentary,weight loss,1617,regular,none,diabetes
+26,female,59,167,21.16,sedentary,muscle gain,1678,regular,none,hypertension
+36,female,70,171,23.94,sedentary,muscle gain,1763,regular,none,hypertension
+34,male,74,188,20.94,active,muscle gain,3086,vegetarian,none,hypertension
+42,male,67,173,22.39,active,maintenance,2722,regular,gluten,none
+50,female,82,164,30.49,sedentary,weight loss,1797,regular,none,none
+31,male,67,175,21.88,sedentary,weight loss,1980,regular,none,none
+39,female,66,164,24.54,moderate,muscle gain,2166,regular,none,diabetes
+19,male,89,183,26.58,moderate,maintenance,3179,regular,nuts,none
+18,male,71,178,22.41,moderate,weight loss,2777,low-carb,none,none
+35,male,73,173,24.39,moderate,muscle gain,2632,regular,none,none
+24,female,60,139,31.05,moderate,weight loss,2060,regular,nuts,none
+33,female,72,153,30.76,sedentary,weight loss,1733,regular,none,none
+41,female,62,150,27.56,sedentary,maintenance,1570,regular,none,none
+25,male,85,195,22.35,active,weight loss,3486,regular,none,high cholesterol
+53,female,59,159,23.34,moderate,weight loss,1947,vegan,nuts,hypertension
+33,female,69,168,24.45,active,maintenance,2524,keto,none,none
+38,male,92,174,30.39,moderate,weight loss,3007,vegetarian,none,none
+33,male,82,175,26.78,sedentary,weight loss,2207,vegetarian,none,none
+38,male,76,175,24.82,moderate,weight loss,2682,low-carb,none,none
+35,male,84,155,34.96,sedentary,weight loss,2111,regular,none,none
+18,male,68,159,26.9,moderate,muscle gain,2573,vegan,none,none
+43,male,63,183,18.81,sedentary,maintenance,1880,regular,none,none
+20,female,62,152,26.84,moderate,maintenance,2178,regular,none,none
+35,male,63,175,20.57,moderate,weight loss,2439,regular,none,none
+24,female,46,152,19.91,sedentary,muscle gain,1488,regular,none,high cholesterol
+40,female,61,180,18.83,sedentary,weight loss,1675,keto,none,none
+34,male,70,175,22.86,moderate,weight loss,2593,vegan,none,hypertension
+38,female,54,148,24.65,moderate,weight loss,1923,vegan,none,none
+42,female,65,170,22.49,moderate,maintenance,2160,regular,none,none
+18,female,68,153,29.05,moderate,weight loss,2282,regular,none,none
+30,female,67,167,24.02,moderate,maintenance,2255,regular,none,high cholesterol
+29,female,72,161,27.78,sedentary,weight loss,1784,regular,nuts,none
+30,female,56,181,17.09,moderate,maintenance,2164,regular,none,hypertension
+38,male,65,146,30.49,sedentary,weight loss,1733,vegetarian,none,none
+21,female,68,162,25.91,moderate,weight loss,2305,paleo,none,high cholesterol
+35,female,63,177,20.11,moderate,weight loss,2212,regular,none,none
+52,female,68,158,27.24,active,weight loss,2313,regular,none,diabetes
+33,male,91,159,36.0,moderate,weight loss,2919,vegan,none,hypertension
+29,female,64,162,24.39,moderate,muscle gain,2194,vegetarian,none,none
+46,male,75,168,26.57,moderate,maintenance,2539,regular,none,none
+31,male,68,174,22.46,sedentary,weight loss,1990,regular,none,none
+35,female,78,156,32.05,moderate,maintenance,2326,regular,none,none
+40,female,67,170,23.18,sedentary,muscle gain,1705,regular,none,none
+38,male,71,169,24.86,sedentary,maintenance,1962,keto,none,none
+25,female,63,159,24.92,sedentary,muscle gain,1697,vegetarian,none,none
+29,female,70,172,23.66,moderate,weight loss,2328,regular,none,hypertension
+49,female,63,173,21.05,sedentary,weight loss,1625,regular,none,none
+42,female,59,171,20.18,moderate,muscle gain,2079,regular,none,none
+36,male,83,180,25.62,moderate,maintenance,2883,regular,none,hypertension
+40,female,65,148,29.67,active,maintenance,2301,vegetarian,none,none
+29,male,81,153,34.6,moderate,weight loss,2702,vegan,none,none
+43,male,90,168,31.89,sedentary,weight loss,2227,regular,none,none
+31,male,89,180,27.47,sedentary,weight loss,2362,regular,none,none
+36,female,53,165,19.47,moderate,maintenance,2004,regular,none,none
+35,female,59,182,17.81,moderate,weight loss,2178,regular,none,none
+43,female,66,166,23.95,sedentary,weight loss,1663,regular,none,hypertension
+39,male,88,179,27.46,moderate,weight loss,2953,vegan,none,none
+38,male,70,164,26.03,moderate,maintenance,2476,regular,none,none
+29,female,68,176,21.95,moderate,maintenance,2319,regular,none,hypertension
+33,female,77,169,26.96,active,weight loss,2657,regular,gluten,none
+44,male,78,171,26.67,moderate,weight loss,2641,regular,none,none
+30,female,72,161,27.78,moderate,weight loss,2297,paleo,none,none
+25,female,67,158,26.84,active,weight loss,2498,keto,none,none
+37,female,62,172,20.96,active,muscle gain,2404,regular,none,none
+31,male,88,173,29.4,moderate,muscle gain,2978,keto,none,diabetes
+18,male,74,170,25.61,moderate,maintenance,2780,regular,lactose,none
+35,male,89,174,29.4,moderate,weight loss,2971,regular,none,diabetes
+41,male,97,175,31.67,sedentary,muscle gain,2394,regular,none,none
+29,male,81,185,23.67,moderate,muscle gain,2940,regular,none,high cholesterol
+37,male,95,170,32.87,sedentary,weight loss,2360,regular,gluten,none
+36,male,78,190,21.61,moderate,maintenance,2853,regular,gluten,none
+34,male,82,158,32.85,moderate,maintenance,2716,regular,none,none
+28,male,82,191,22.48,active,weight loss,3354,regular,none,none
+49,female,57,161,21.99,sedentary,weight loss,1514,vegetarian,none,hypertension
+34,male,70,164,26.03,active,maintenance,2795,regular,none,none
+62,female,69,168,24.45,sedentary,muscle gain,1605,paleo,none,none
